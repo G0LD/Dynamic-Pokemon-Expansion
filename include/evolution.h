@@ -49,14 +49,11 @@ enum EvolutionMethods
 	EVO_NATURE_LOW, // evolution based on low key nature at a certain level
 	EVO_DAMAGE_LOCATION, // recieve 49+ damage in battle without fainting, walk to specific tile
 	EVO_ITEM_LOCATION, // Stand on a tile with a certain behaviour and use an item on a Pokemon
-<<<<<<< Updated upstream
-=======
 	EVO_LEVEL_HOLD_ITEM, // Level up to a certain level while holding an item
 	EVO_ITEM_HOLD_ITEM, // Use and item on a Pokemon while its holding an item
 	EVO_MOVE_MALE, // Knows a given move and is male
 	EVO_MOVE_FEMALE, // Knows a given move and is female
 	EVO_ITEM_NIGHT, // Item is used on it at night
->>>>>>> Stashed changes
 };
 
 #define EVO_GIGANTAMAX 0xFD
@@ -72,10 +69,6 @@ enum MegaEvoVariants
 
 #define MB_SHALLOW_WATER 0x17 //For Alolan Raichu
 
-<<<<<<< Updated upstream
-#define MAPSEC_POWER_PLANT 0x8E
-#define MAPSEC_ICEFALL_CAVE 0xB1
-=======
 #define MAPSEC_FROST_MOUNTAIN				0x82
 #define MAPSEC_ROUTE_8 						0x6C
 #define MAPSEC_BLIZZARD_CITY				0x5C
@@ -84,4 +77,3 @@ enum MegaEvoVariants
 
 #define MAP_NAME_MT_MORTAR 0x8D
 
->>>>>>> Stashed changes

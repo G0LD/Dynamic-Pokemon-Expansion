@@ -274,7 +274,4 @@ MR_MIME_G
 CORSOLA_G
 MIME_JR_G
 YAMASK_G
-<<<<<<< Updated upstream
-=======
 WYRDEER
->>>>>>> Stashed changes

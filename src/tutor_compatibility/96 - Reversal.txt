@@ -175,10 +175,7 @@ KUBFU
 URSHIFU_SINGLE
 URSHIFU_RAPID
 REGIDRAGO
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 BASCULEGION_M
 BASCULEGION_F
 OVERQWIL
->>>>>>> Stashed changes

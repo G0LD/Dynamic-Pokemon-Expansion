@@ -251,8 +251,5 @@ ZARUDE_DADA
 MEOWTH_G
 ZIGZAGOON_G
 LINOONE_G
-<<<<<<< Updated upstream
-=======
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

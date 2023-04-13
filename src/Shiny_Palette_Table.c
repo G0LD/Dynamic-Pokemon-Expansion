@@ -1111,7 +1111,7 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_GROOKEY] =              {gBackShinySprite1102GrookeyPal, SPECIES_GROOKEY + NUM_SPECIES, 0x0},
 	[SPECIES_THWACKEY] =             {gBackShinySprite1103ThwackeyPal, SPECIES_THWACKEY + NUM_SPECIES, 0x0},
 	[SPECIES_RILLABOOM] =            {gBackShinySprite1104RillaboomPal, SPECIES_RILLABOOM + NUM_SPECIES, 0x0},
-/*	[SPECIES_SCORBUNNY] =            {gBackShinySprite1105ScorbunnyPal, SPECIES_SCORBUNNY + NUM_SPECIES, 0x0},
+	[SPECIES_SCORBUNNY] =            {gBackShinySprite1105ScorbunnyPal, SPECIES_SCORBUNNY + NUM_SPECIES, 0x0},
 	[SPECIES_RABOOT] =               {gBackShinySprite1106RabootPal, SPECIES_RABOOT + NUM_SPECIES, 0x0},
 	[SPECIES_CINDERACE] =            {gBackShinySprite1107CinderacePal, SPECIES_CINDERACE + NUM_SPECIES, 0x0},
 	[SPECIES_SOBBLE] =               {gBackShinySprite1108SobblePal, SPECIES_SOBBLE + NUM_SPECIES, 0x0},
@@ -1240,8 +1240,6 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_DARMANITAN_G_ZEN] =     {gBackShinySprite1231DarmanitanGZenPal, SPECIES_DARMANITAN_G_ZEN + NUM_SPECIES, 0x0},
 	[SPECIES_YAMASK_G] =             {gBackShinySprite1232YamaskGPal, SPECIES_YAMASK_G + NUM_SPECIES, 0x0},
 	[SPECIES_STUNFISK_G] =           {gBackShinySprite1233StunfiskGPal, SPECIES_STUNFISK_G + NUM_SPECIES, 0x0},
-<<<<<<< Updated upstream
-=======
 	[SPECIES_GROWLITHE_H] =          {gBackShinySprite1234GrowlitheHPal, SPECIES_GROWLITHE_H + NUM_SPECIES, 0x0},
 	[SPECIES_ARCANINE_H] =           {gBackShinySprite1235ArcanineHPal, SPECIES_ARCANINE_H + NUM_SPECIES, 0x0},
 	[SPECIES_VOLTORB_H] =            {gBackShinySprite1236VoltorbHPal, SPECIES_VOLTORB_H + NUM_SPECIES, 0x0},
@@ -1277,7 +1275,6 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_FERALIGATR_MEGA] =      {gBackShinySprite160FeraligatrMegaPal, SPECIES_FERALIGATR_MEGA + NUM_SPECIES, 0x0},
 	//New Species Go Here
 
->>>>>>> Stashed changes
 	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA + NUM_SPECIES, 0x0},
 	[SPECIES_CHARIZARD_GIGA] =       {gBackShinySpriteGigaCharizardPal, SPECIES_CHARIZARD_GIGA + NUM_SPECIES, 0x0},
 	[SPECIES_BLASTOISE_GIGA] =       {gBackShinySpriteGigaBlastoisePal, SPECIES_BLASTOISE_GIGA + NUM_SPECIES, 0x0},

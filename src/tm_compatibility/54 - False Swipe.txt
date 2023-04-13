@@ -107,8 +107,5 @@ ZACIAN
 ZACIAN_CROWNED
 URSHIFU_SINGLE
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 SNEASLER
->>>>>>> Stashed changes

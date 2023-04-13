@@ -252,10 +252,7 @@ TAPU_KOKO
 TAPU_BULU
 SOLGALEO
 LUNALA
-<<<<<<< Updated upstream
-=======
 ZERAORA
->>>>>>> Stashed changes
 RILLABOOM
 CINDERACE
 INTELEON
@@ -288,8 +285,5 @@ ZARUDE_DADA
 REGIDRAGO
 ZIGZAGOON_G
 LINOONE_G
-<<<<<<< Updated upstream
-=======
 WYRDEER
 URSALUNA
->>>>>>> Stashed changes

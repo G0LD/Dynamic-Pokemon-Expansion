@@ -144,10 +144,7 @@ ZARUDE_DADA
 ZAPDOS_G
 DARMANITAN_G
 YAMASK_G
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

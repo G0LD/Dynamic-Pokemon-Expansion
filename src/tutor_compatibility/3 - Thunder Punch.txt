@@ -223,7 +223,4 @@ ARCTOZOLT
 KUBFU
 URSHIFU_SINGLE
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 URSALUNA
->>>>>>> Stashed changes

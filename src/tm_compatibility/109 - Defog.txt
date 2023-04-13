@@ -226,9 +226,6 @@ FARFETCHD_G
 ARTICUNO_G
 ZAPDOS_G
 MOLTRES_G
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

@@ -1007,10 +1007,6 @@ enum
 #define NATIONAL_DEX_GLASTRIER 896
 #define NATIONAL_DEX_SPECTRIER 897
 #define NATIONAL_DEX_CALYREX 898
-<<<<<<< Updated upstream
-
-#define FINAL_DEX_ENTRY NATIONAL_DEX_CALYREX //Not +1 b/c used like this for some asm
-=======
 #define NATIONAL_DEX_WYRDEER 899
 #define NATIONAL_DEX_KLEAVOR 900
 #define NATIONAL_DEX_URSALUNA 901
@@ -1026,7 +1022,6 @@ enum
 #define NATIONAL_DEX_KINGAMBIT 909
 
 #define FINAL_DEX_ENTRY NATIONAL_DEX_KINGAMBIT //Not +1 b/c used like this for some asm
->>>>>>> Stashed changes
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
 
 extern const u8 DEX_ENTRY_DEOXYS[];
@@ -1614,8 +1609,6 @@ extern const u8 DEX_ENTRY_URSHIFU_RAPID[];
 extern const u8 DEX_ENTRY_ZARUDE_DADA[];
 extern const u8 DEX_ENTRY_CALYREX_ICE_RIDER[];
 extern const u8 DEX_ENTRY_CALYREX_SHADOW_RIDER[];
-<<<<<<< Updated upstream
-=======
 extern const u8 DEX_ENTRY_WYRDEER[];
 extern const u8 DEX_ENTRY_KLEAVOR[];
 extern const u8 DEX_ENTRY_URSALUNA[];
@@ -1668,4 +1661,3 @@ extern const u8 DEX_CATEGORY_ZOROARK_H[];
 extern const u8 DEX_CATEGORY_BRAVIARY_H[];
 extern const u8 DEX_CATEGORY_SLIGGOO_H[];
 extern const u8 DEX_CATEGORY_GOODRA_H[];
->>>>>>> Stashed changes

@@ -188,8 +188,5 @@ ZARUDE
 ZARUDE_DADA
 SPECTRIER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

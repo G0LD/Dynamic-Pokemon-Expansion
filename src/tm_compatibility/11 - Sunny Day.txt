@@ -707,10 +707,7 @@ CALYREX
 CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
 SLOWKING_G
-<<<<<<< Updated upstream
-=======
 WYRDEER
 KLEAVOR
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

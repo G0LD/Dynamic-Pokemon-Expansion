@@ -32,13 +32,9 @@ MAGNETON
 DROWZEE
 HYPNO
 VOLTORB
-<<<<<<< Updated upstream
-ELECTRODE
-=======
 VOLTORB_H
 ELECTRODE
 ELECTRODE_H
->>>>>>> Stashed changes
 EXEGGCUTE
 EXEGGCUTE_A
 EXEGGUTOR
@@ -285,8 +281,5 @@ REGIDRAGO
 CALYREX
 CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
 SNEASLER
->>>>>>> Stashed changes

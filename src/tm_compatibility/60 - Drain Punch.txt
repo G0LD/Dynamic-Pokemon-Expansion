@@ -29,10 +29,7 @@ TOGETIC
 BELLOSSOM
 SLOWKING
 SLOWKING_G
-<<<<<<< Updated upstream
-=======
 SNEASEL_H
->>>>>>> Stashed changes
 BLISSEY
 TREECKO
 GROVYLE
@@ -139,7 +136,4 @@ URSHIFU_SINGLE
 URSHIFU_RAPID
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 SNEASLER
->>>>>>> Stashed changes

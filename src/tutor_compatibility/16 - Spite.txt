@@ -175,9 +175,6 @@ CURSOLA
 RUNERIGUS
 SPECTRIER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
 BASCULEGION_M
 BASCULEGION_F
->>>>>>> Stashed changes

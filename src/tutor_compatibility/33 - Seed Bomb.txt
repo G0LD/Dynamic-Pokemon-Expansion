@@ -185,7 +185,4 @@ ZARUDE_DADA
 CALYREX
 CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 URSALUNA
->>>>>>> Stashed changes

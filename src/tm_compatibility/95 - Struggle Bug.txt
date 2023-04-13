@@ -106,7 +106,4 @@ SIZZLIPEDE
 CENTISKORCH
 SNOM
 FROSMOTH
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

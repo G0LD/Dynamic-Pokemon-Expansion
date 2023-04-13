@@ -157,7 +157,4 @@ ZARUDE
 ZARUDE_DADA
 REGIELEKI
 ZAPDOS_G
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

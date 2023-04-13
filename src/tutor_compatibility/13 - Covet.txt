@@ -271,7 +271,4 @@ INDEEDEE_FEMALE
 MORPEKO
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 URSALUNA
->>>>>>> Stashed changes

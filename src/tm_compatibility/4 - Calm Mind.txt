@@ -40,13 +40,10 @@ MR_MIME
 MR_MIME_G
 SCYTHER
 JYNX
-<<<<<<< Updated upstream
-=======
 EEVEE
 VAPOREON
 JOLTEON
 FLAREON
->>>>>>> Stashed changes
 ARTICUNO_G
 MEWTWO
 MEW
@@ -318,11 +315,8 @@ SPECTRIER
 CALYREX
 CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
 KLEAVOR
 SNEASLER
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

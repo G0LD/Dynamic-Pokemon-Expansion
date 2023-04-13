@@ -287,7 +287,4 @@ CORSOLA_G
 ZIGZAGOON_G
 LINOONE_G
 MIME_JR_G
-<<<<<<< Updated upstream
-=======
 WYRDEER
->>>>>>> Stashed changes

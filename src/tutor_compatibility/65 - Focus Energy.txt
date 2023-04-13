@@ -160,9 +160,6 @@ KUBFU
 URSHIFU_SINGLE
 URSHIFU_RAPID
 REGIDRAGO
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

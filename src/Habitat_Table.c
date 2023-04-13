@@ -917,12 +917,19 @@ const u16 gForestPage60[] =
 
 const u16 gForestPage61[] =
 {
+	SPECIES_GROOKEY,
+	SPECIES_THWACKEY,
+	SPECIES_RILLABOOM,
+};
+
+const u16 gForestPage62[] =
+{
 	SPECIES_APPLIN,
 	SPECIES_FLAPPLE,
 	SPECIES_APPLETUN,
 };
 
-const u16 gForestPage62[] =
+const u16 gForestPage63[] =
 {
 	SPECIES_PONYTA_G,
 	SPECIES_RAPIDASH_G,
@@ -930,14 +937,14 @@ const u16 gForestPage62[] =
 	SPECIES_INDEEDEE_FEMALE,
 };
 
-const u16 gForestPage63[] =
+const u16 gForestPage64[] =
 {
 	SPECIES_HATENNA,
 	SPECIES_HATTREM,
 	SPECIES_HATTERENE,
 };
 
-const u16 gForestPage64[] =
+const u16 gForestPage65[] =
 {
 	SPECIES_IMPIDIMP,
 	SPECIES_MORGREM,
@@ -2614,31 +2621,19 @@ const u16 gRarePage35[] =
 	SPECIES_URSHIFU_RAPID,
 };
 
-<<<<<<< Updated upstream
-const u16 gRarePage35[] =
-=======
 const u16 gRarePage36[] =
->>>>>>> Stashed changes
 {
 	SPECIES_ZARUDE,
 	SPECIES_ZARUDE_DADA,
 };
 
-<<<<<<< Updated upstream
-const u16 gRarePage36[] =
-=======
 const u16 gRarePage37[] =
->>>>>>> Stashed changes
 {
 	SPECIES_GLASTRIER,
 	SPECIES_SPECTRIER,
 };
 
-<<<<<<< Updated upstream
-const u16 gRarePage37[] =
-=======
 const u16 gRarePage38[] =
->>>>>>> Stashed changes
 {
 	SPECIES_CALYREX,
 	SPECIES_CALYREX_ICE_RIDER,
@@ -2777,6 +2772,7 @@ const struct HabitatPage gForestPages[] =
 	{gForestPage62, ARRAY_COUNT(gForestPage62)},
 	{gForestPage63, ARRAY_COUNT(gForestPage63)},
 	{gForestPage64, ARRAY_COUNT(gForestPage64)},
+	{gForestPage65, ARRAY_COUNT(gForestPage65)},
 };
 
 const struct HabitatPage gWatersEdgePages[] =
@@ -3047,10 +3043,7 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage35, ARRAY_COUNT(gRarePage35)},
 	{gRarePage36, ARRAY_COUNT(gRarePage36)},
 	{gRarePage37, ARRAY_COUNT(gRarePage37)},
-<<<<<<< Updated upstream
-=======
 	{gRarePage38, ARRAY_COUNT(gRarePage38)},
->>>>>>> Stashed changes
 };
 
 const struct Habitat gHabitatPtrsTable[9] =

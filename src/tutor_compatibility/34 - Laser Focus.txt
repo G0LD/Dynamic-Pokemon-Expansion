@@ -281,9 +281,6 @@ ZACIAN_CROWNED
 ZAMAZENTA
 ZAMAZENTA_CROWNED
 REGIDRAGO
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

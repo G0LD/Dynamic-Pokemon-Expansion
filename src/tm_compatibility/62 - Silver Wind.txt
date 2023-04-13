@@ -120,7 +120,4 @@ NAGANADEL
 ORBEETLE
 ELDEGOSS
 FROSMOTH
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

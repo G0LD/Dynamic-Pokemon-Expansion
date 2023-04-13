@@ -144,7 +144,4 @@ STAKATAKA
 ORBEETLE
 STONJOURNER
 ETERNATUS
-<<<<<<< Updated upstream
-=======
 WYRDEER
->>>>>>> Stashed changes

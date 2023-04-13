@@ -144,7 +144,4 @@ DURALUDON
 REGIELEKI
 REGIDRAGO
 CORSOLA_G
-<<<<<<< Updated upstream
-=======
 OVERQWIL
->>>>>>> Stashed changes

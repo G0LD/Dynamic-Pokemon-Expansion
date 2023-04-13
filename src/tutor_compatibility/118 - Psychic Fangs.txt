@@ -29,10 +29,7 @@ STOUTLAND
 SWOOBAT
 BASCULIN_RED
 BASCULIN_BLUE
-<<<<<<< Updated upstream
-=======
 BASCULIN_H
->>>>>>> Stashed changes
 TYRUNT
 TYRANTRUM
 LYCANROC

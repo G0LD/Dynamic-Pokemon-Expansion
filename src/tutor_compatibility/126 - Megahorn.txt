@@ -38,7 +38,4 @@ DREDNAW
 FALINKS
 GLASTRIER
 CALYREX_ICE_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
->>>>>>> Stashed changes

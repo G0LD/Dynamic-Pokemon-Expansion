@@ -4,13 +4,8 @@ from glob import glob
 
 # Data
 TM_HM_COUNT = 128
-<<<<<<< Updated upstream
-TUTOR_COUNT = 128
-SPECIES_COUNT = 0x4F3 + 1
-=======
 TUTOR_COUNT = 146
 SPECIES_COUNT = 0x50D + 1
->>>>>>> Stashed changes
 
 TM_OUTPUT = "assembly/generated/tm_compatibility.s"
 TUTOR_OUTPUT = "assembly/generated/tutor_compatibility.s"

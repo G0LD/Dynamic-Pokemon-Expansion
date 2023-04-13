@@ -235,8 +235,5 @@ ZARUDE_DADA
 GLASTRIER
 CALYREX_ICE_RIDER
 DARMANITAN_G
-<<<<<<< Updated upstream
-=======
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

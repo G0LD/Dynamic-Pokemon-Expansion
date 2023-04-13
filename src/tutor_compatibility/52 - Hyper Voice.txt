@@ -232,7 +232,4 @@ ZAMAZENTA
 ZAMAZENTA_CROWNED
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 URSALUNA
->>>>>>> Stashed changes

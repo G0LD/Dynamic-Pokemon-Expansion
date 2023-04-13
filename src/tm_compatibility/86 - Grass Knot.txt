@@ -386,8 +386,5 @@ ZARUDE_DADA
 CALYREX
 CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

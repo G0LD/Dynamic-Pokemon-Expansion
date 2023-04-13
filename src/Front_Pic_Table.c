@@ -1111,7 +1111,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_GROOKEY] =              {gFrontSprite1102GrookeyTiles, (64 * 64) / 2, SPECIES_GROOKEY},
 	[SPECIES_THWACKEY] =             {gFrontSprite1103ThwackeyTiles, (64 * 64) / 2, SPECIES_THWACKEY},
 	[SPECIES_RILLABOOM] =            {gFrontSprite1104RillaboomTiles, (64 * 64) / 2, SPECIES_RILLABOOM},
-/*	[SPECIES_SCORBUNNY] =            {gFrontSprite1105ScorbunnyTiles, (64 * 64) / 2, SPECIES_SCORBUNNY},
+	[SPECIES_SCORBUNNY] =            {gFrontSprite1105ScorbunnyTiles, (64 * 64) / 2, SPECIES_SCORBUNNY},
 	[SPECIES_RABOOT] =               {gFrontSprite1106RabootTiles, (64 * 64) / 2, SPECIES_RABOOT},
 	[SPECIES_CINDERACE] =            {gFrontSprite1107CinderaceTiles, (64 * 64) / 2, SPECIES_CINDERACE},
 	[SPECIES_SOBBLE] =               {gFrontSprite1108SobbleTiles, (64 * 64) / 2, SPECIES_SOBBLE},
@@ -1240,8 +1240,6 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_DARMANITAN_G_ZEN] =     {gFrontSprite1231DarmanitanGZenTiles, (64 * 64) / 2, SPECIES_DARMANITAN_G_ZEN},
 	[SPECIES_YAMASK_G] =             {gFrontSprite1232YamaskGTiles, (64 * 64) / 2, SPECIES_YAMASK_G},
 	[SPECIES_STUNFISK_G] =           {gFrontSprite1233StunfiskGTiles, (64 * 64) / 2, SPECIES_STUNFISK_G},
-<<<<<<< Updated upstream
-=======
 	[SPECIES_GROWLITHE_H] =          {gFrontSprite1234GrowlitheHTiles, (64 * 64) / 2, SPECIES_GROWLITHE_H},
 	[SPECIES_ARCANINE_H] =           {gFrontSprite1235ArcanineHTiles, (64 * 64) / 2, SPECIES_ARCANINE_H},
 	[SPECIES_VOLTORB_H] =            {gFrontSprite1236VoltorbHTiles, (64 * 64) / 2, SPECIES_VOLTORB_H},
@@ -1277,7 +1275,6 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_FERALIGATR_MEGA] =      {gFrontSprite160FeraligatrMegaTiles, (64 * 64) / 2, SPECIES_FERALIGATR_MEGA},
 	//New Species Go Here
 
->>>>>>> Stashed changes
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},
 	[SPECIES_CHARIZARD_GIGA] =       {gFrontSpriteGigaCharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD_GIGA},
 	[SPECIES_BLASTOISE_GIGA] =       {gFrontSpriteGigaBlastoiseTiles, (64 * 64) / 2, SPECIES_BLASTOISE_GIGA},

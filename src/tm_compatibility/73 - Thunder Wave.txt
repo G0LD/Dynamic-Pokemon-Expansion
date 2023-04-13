@@ -340,8 +340,5 @@ DREEPY
 DRAKLOAK
 DRAGAPULT
 REGIELEKI
-<<<<<<< Updated upstream
-=======
 WYRDEER
 OVERQWIL
->>>>>>> Stashed changes

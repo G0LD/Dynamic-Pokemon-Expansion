@@ -122,8 +122,5 @@ URSHIFU_RAPID
 ZARUDE
 ZARUDE_DADA
 ZAPDOS_G
-<<<<<<< Updated upstream
-=======
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

@@ -169,7 +169,4 @@ SLOWKING_G
 MIME_JR_G
 MR_MIME_G
 YAMASK_G
-<<<<<<< Updated upstream
-=======
 WYRDEER
->>>>>>> Stashed changes

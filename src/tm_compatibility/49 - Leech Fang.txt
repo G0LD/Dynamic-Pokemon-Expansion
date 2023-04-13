@@ -25,10 +25,7 @@ DUSKULL
 DUSCLOPS
 KRICKETUNE
 DRAPION
-<<<<<<< Updated upstream
-=======
 CARNIVINE
->>>>>>> Stashed changes
 YANMEGA
 DUSKNOIR
 JOLTIK

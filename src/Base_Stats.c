@@ -38249,11 +38249,7 @@ const struct BaseStats gBaseStats[] =
 		.growthRate = GROWTH_SLOW,
 		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
 		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-<<<<<<< Updated upstream
-		.ability1 = ABILITY_LIGHTNINGROD, //NEW ABILITY TRANSISTOR
-=======
 		.ability1 = ABILITY_TRANSISTOR,
->>>>>>> Stashed changes
 		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_NONE,
@@ -38286,11 +38282,7 @@ const struct BaseStats gBaseStats[] =
 		.growthRate = GROWTH_SLOW,
 		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
 		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-<<<<<<< Updated upstream
-		.ability1 = ABILITY_PRESSURE, //NEW ABILITY DRAGONS MAW
-=======
 		.ability1 = ABILITY_DRAGONSMAW,
->>>>>>> Stashed changes
 		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_NONE,
@@ -38323,11 +38315,7 @@ const struct BaseStats gBaseStats[] =
 		.growthRate = GROWTH_SLOW,
 		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
 		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-<<<<<<< Updated upstream
-		.ability1 = ABILITY_PRESSURE,	//NEW ABILITY CHILLING NEIGH
-=======
 		.ability1 = ABILITY_MOXIE, //-ABILITY_CHILLINGNEIGH
->>>>>>> Stashed changes
 		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_NONE,
@@ -38360,11 +38348,7 @@ const struct BaseStats gBaseStats[] =
 		.growthRate = GROWTH_SLOW,
 		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
 		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-<<<<<<< Updated upstream
-		.ability1 = ABILITY_PRESSURE,	//NEW ABILITY GRIM NEIGH
-=======
 		.ability1 = ABILITY_GRIMNEIGH,
->>>>>>> Stashed changes
 		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_NONE,
@@ -39097,105 +39081,6 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 	
-	[SPECIES_ZARUDE_DADA] = 
-	{
-		.baseHP 		= 105,
-		.baseAttack 	= 120,
-		.baseDefense 	= 105,
-		.baseSpAttack 	= 70,
-		.baseSpDefense 	= 95,
-		.baseSpeed 		= 105,
-		.type1 = TYPE_DARK,
-		.type2 = TYPE_GRASS,
-		.catchRate = 3,
-		.expYield = 255,
-		.evYield_HP 		= 0,
-		.evYield_Attack 	= 3,
-		.evYield_Defense 	= 0,
-		.evYield_SpAttack 	= 0,
-		.evYield_SpDefense 	= 0,
-		.evYield_Speed 		= 0,
-		.item1 = ITEM_NONE,
-		.item2 = ITEM_NONE,
-		.genderRatio = MON_GENDERLESS,
-		.eggCycles = 120,
-		.friendship = 0,
-		.growthRate = GROWTH_SLOW,
-		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
-		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-		.ability1 = ABILITY_LEAFGUARD,
-		.ability2 = ABILITY_NONE,
-		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_NONE,
-		.noFlip = TRUE,
-	},
-	
-	[SPECIES_CALYREX_ICE_RIDER] = 
-	{
-		.baseHP 		= 100,
-		.baseAttack 	= 165,
-		.baseDefense 	= 150,
-		.baseSpAttack 	= 85,
-		.baseSpDefense 	= 130,
-		.baseSpeed 		= 50,
-		.type1 = TYPE_PSYCHIC,
-		.type2 = TYPE_ICE,
-		.catchRate = 3,
-		.expYield = 255,
-		.evYield_HP 		= 0,
-		.evYield_Attack 	= 3,
-		.evYield_Defense 	= 0,
-		.evYield_SpAttack 	= 0,
-		.evYield_SpDefense 	= 0,
-		.evYield_Speed 		= 0,
-		.item1 = ITEM_NONE,
-		.item2 = ITEM_NONE,
-		.genderRatio = MON_GENDERLESS,
-		.eggCycles = 120,
-		.friendship = 100,
-		.growthRate = GROWTH_SLOW,
-		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
-		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-		.ability1 = ABILITY_UNNERVE,	//NEW ABILITY AS ONE
-		.ability2 = ABILITY_NONE,
-		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_NONE,
-		.noFlip = TRUE,
-	},
-	
-	[SPECIES_CALYREX_SHADOW_RIDER] = 
-	{
-		.baseHP 		= 100,
-		.baseAttack 	= 85,
-		.baseDefense 	= 80,
-		.baseSpAttack 	= 165,
-		.baseSpDefense 	= 100,
-		.baseSpeed 		= 150,
-		.type1 = TYPE_PSYCHIC,
-		.type2 = TYPE_GHOST,
-		.catchRate = 3,
-		.expYield = 255,
-		.evYield_HP 		= 0,
-		.evYield_Attack 	= 0,
-		.evYield_Defense 	= 0,
-		.evYield_SpAttack 	= 3,
-		.evYield_SpDefense 	= 0,
-		.evYield_Speed 		= 0,
-		.item1 = ITEM_NONE,
-		.item2 = ITEM_NONE,
-		.genderRatio = MON_GENDERLESS,
-		.eggCycles = 120,
-		.friendship = 100,
-		.growthRate = GROWTH_SLOW,
-		.eggGroup1 = EGG_GROUP_UNDISCOVERED,
-		.eggGroup2 = EGG_GROUP_UNDISCOVERED,
-		.ability1 = ABILITY_UNNERVE,	//NEW ABILITY AS ONE
-		.ability2 = ABILITY_NONE,
-		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_NONE,
-		.noFlip = TRUE,
-	},
-	
 	[SPECIES_MEOWTH_G] =
 	{
 		.baseHP 		= 50,
@@ -39597,11 +39482,7 @@ const struct BaseStats gBaseStats[] =
 		.baseHP 		= 90,
 		.baseAttack 	= 85,
 		.baseDefense 	= 90,
-<<<<<<< Updated upstream
-		.baseSpAttack 	= 105,
-=======
 		.baseSpAttack 	= 100,
->>>>>>> Stashed changes
 		.baseSpDefense 	= 125,
 		.baseSpeed 		= 90,
 		.type1 = TYPE_DARK,
@@ -39655,11 +39536,7 @@ const struct BaseStats gBaseStats[] =
 		.growthRate = GROWTH_MEDIUM_FAST,
 		.eggGroup1 = EGG_GROUP_MONSTER,
 		.eggGroup2 = EGG_GROUP_WATER_1,
-<<<<<<< Updated upstream
-		.ability1 = ABILITY_GLUTTONY,	//NEW ABILITY CURIOUS MEDICINE
-=======
 		.ability1 = ABILITY_CURIOUSMEDICINE,
->>>>>>> Stashed changes
 		.ability2 = ABILITY_OWNTEMPO,
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_REGENERATOR,

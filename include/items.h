@@ -792,12 +792,9 @@ enum
 #define ITEM_STAR_SWEET 0x2D2
 #define ITEM_GALARICA_CUFF 0x2D3
 #define ITEM_GALARICA_WREATH 0x2D4
-<<<<<<< Updated upstream
-=======
 #define ITEM_BLACK_AUGURITE 0x2D6
 #define ITEM_PEAT_BLOCK 0x2D7
 #define ITEM_HISUI_ROCK 0x2D8
->>>>>>> Stashed changes
 
 //New Key Items
 #define ITEM_GRACIDEA 0x217

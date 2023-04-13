@@ -229,7 +229,4 @@ ZAMAZENTA_CROWNED
 KUBFU
 URSHIFU_SINGLE
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

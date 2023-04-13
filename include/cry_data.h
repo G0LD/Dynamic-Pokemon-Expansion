@@ -539,8 +539,6 @@ extern u8 gCrySpectrier[];
 extern u8 gCryCalyrex[];
 extern u8 gCryCalyrexShadowRider[];
 extern u8 gCryCalyrexIceRider[];
-<<<<<<< Updated upstream
-=======
 extern u8 gCryWyrdeer[];
 extern u8 gCryKleavor[];
 extern u8 gCryUrsaluna[];
@@ -553,4 +551,3 @@ extern u8 gCryAnnihilape[];
 extern u8 gCryFarigiraf[];
 extern u8 gCryDudunsparce[];
 extern u8 gCryKingambit[];
->>>>>>> Stashed changes

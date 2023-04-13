@@ -134,8 +134,5 @@ ETERNATUS
 ARTICUNO_G
 ZAPDOS_G
 MOLTRES_G
-<<<<<<< Updated upstream
-=======
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

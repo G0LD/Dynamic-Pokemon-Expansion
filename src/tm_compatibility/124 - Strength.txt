@@ -506,9 +506,6 @@ ZIGZAGOON_G
 LINOONE_G
 DARUMAKA_G
 DARMANITAN_G
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

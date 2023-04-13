@@ -5528,14 +5528,10 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
-/*	[SPECIES_SCORBUNNY] =
+	[SPECIES_SCORBUNNY] =
 	{
 		.size = 0x0,
-<<<<<<< Updated upstream
-		.y_offset = 0x4,
-=======
 		.y_offset = 0x1,
->>>>>>> Stashed changes
 	},
 	[SPECIES_RABOOT] =
 	{
@@ -5545,7 +5541,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_CINDERACE] =
 	{
 		.size = 0x0,
-		.y_offset = 0x4,
+		.y_offset = 0x0,
 	},
 	[SPECIES_SOBBLE] =
 	{
@@ -5890,7 +5886,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_DURALUDON] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_DREEPY] =
 	{
@@ -6125,11 +6121,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_MOLTRES_G] =
 	{
 		.size = 0x0,
-<<<<<<< Updated upstream
-		.y_offset = 0x5,
-=======
 		.y_offset = 0x1,
->>>>>>> Stashed changes
 	},
 	[SPECIES_SLOWKING_G] =
 	{
@@ -6239,7 +6231,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_ZOROARK_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0xb,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BRAVIARY_H] =
 	{
@@ -6366,11 +6358,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_BUTTERFREE_GIGA] =
 	{
 		.size = 0x0,
-<<<<<<< Updated upstream
-		.y_offset = 0x3,
-=======
 		.y_offset = 0x6,
->>>>>>> Stashed changes
 	},
 	[SPECIES_PIKACHU_GIGA] =
 	{
@@ -6430,7 +6418,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_CINDERACE_GIGA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x4,
+		.y_offset = 0x0,
 	},
 	[SPECIES_INTELEON_GIGA] =
 	{

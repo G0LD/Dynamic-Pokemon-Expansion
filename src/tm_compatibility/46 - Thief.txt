@@ -429,10 +429,7 @@ DRAGAPULT
 URSHIFU_SINGLE
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 WYRDEER
 KLEAVOR
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

@@ -95,8 +95,5 @@ PINCURCHIN
 DRACOVISH
 ARCTOVISH
 URSHIFU_SINGLE
-<<<<<<< Updated upstream
-=======
 BASCULEGION_M
 BASCULEGION_F
->>>>>>> Stashed changes

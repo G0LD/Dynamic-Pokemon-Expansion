@@ -230,7 +230,4 @@ COPPERAJAH
 DURALUDON
 ETERNATUS
 REGIELEKI
-<<<<<<< Updated upstream
-=======
 SNEASLER
->>>>>>> Stashed changes

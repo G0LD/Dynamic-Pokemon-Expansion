@@ -168,9 +168,6 @@ ZACIAN_CROWNED
 ETERNATUS
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

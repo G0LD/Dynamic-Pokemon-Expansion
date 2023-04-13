@@ -152,8 +152,5 @@ DURALUDON
 URSHIFU_SINGLE
 SPECTRIER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 SNEASLER
 OVERQWIL
->>>>>>> Stashed changes

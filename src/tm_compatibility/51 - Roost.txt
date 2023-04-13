@@ -155,7 +155,4 @@ SIRFETCHD
 FROSMOTH
 DRAGAPULT
 FARFETCHD_G
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

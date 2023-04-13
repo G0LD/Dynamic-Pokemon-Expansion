@@ -324,7 +324,4 @@ DURALUDON
 DRAKLOAK
 DRAGAPULT
 REGIELEKI
-<<<<<<< Updated upstream
-=======
 WYRDEER
->>>>>>> Stashed changes

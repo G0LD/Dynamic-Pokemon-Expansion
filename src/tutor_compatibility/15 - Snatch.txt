@@ -189,7 +189,4 @@ CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
 ZIGZAGOON_G
 LINOONE_G
-<<<<<<< Updated upstream
-=======
 SNEASLER
->>>>>>> Stashed changes

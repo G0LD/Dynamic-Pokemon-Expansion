@@ -343,8 +343,5 @@ GLASTRIER
 SPECTRIER
 CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
 URSALUNA
->>>>>>> Stashed changes

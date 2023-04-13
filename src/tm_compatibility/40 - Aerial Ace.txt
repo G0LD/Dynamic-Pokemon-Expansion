@@ -413,9 +413,6 @@ ZARUDE
 ZARUDE_DADA
 MEOWTH_G
 MR_MIME_G
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

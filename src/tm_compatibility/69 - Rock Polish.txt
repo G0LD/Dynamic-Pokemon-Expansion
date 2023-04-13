@@ -127,7 +127,4 @@ COALOSSAL
 SANDACONDA
 STONJOURNER
 DURALUDON
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

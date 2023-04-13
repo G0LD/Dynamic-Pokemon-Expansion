@@ -226,9 +226,6 @@ ZARUDE_DADA
 SPECTRIER
 CALYREX_SHADOW_RIDER
 MOLTRES_G
-<<<<<<< Updated upstream
-=======
 OVERQWIL
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

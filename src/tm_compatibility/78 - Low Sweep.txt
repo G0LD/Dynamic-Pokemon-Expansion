@@ -113,7 +113,4 @@ KUBFU
 URSHIFU_SINGLE
 URSHIFU_RAPID
 ZAPDOS_G
-<<<<<<< Updated upstream
-=======
 SNEASLER
->>>>>>> Stashed changes

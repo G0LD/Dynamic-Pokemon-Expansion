@@ -133,10 +133,7 @@ DUBWOOL
 ARROKUDA
 BARRASKEWDA
 REGIELEKI
-<<<<<<< Updated upstream
-=======
 WYRDEER
 BASCULEGION_M
 BASCULEGION_F
 OVERQWIL
->>>>>>> Stashed changes

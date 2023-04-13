@@ -263,8 +263,5 @@ INDEEDEE_FEMALE
 DURALUDON
 URSHIFU_SINGLE
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 BASCULEGION_M
 BASCULEGION_F
->>>>>>> Stashed changes

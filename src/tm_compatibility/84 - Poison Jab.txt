@@ -188,8 +188,5 @@ PINCURCHIN
 ETERNATUS
 URSHIFU_SINGLE
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 SNEASLER
 OVERQWIL
->>>>>>> Stashed changes

@@ -148,9 +148,6 @@ RUNERIGUS
 SPECTRIER
 CALYREX_SHADOW_RIDER
 CORSOLA_G
-<<<<<<< Updated upstream
-=======
 BASCULEGION_M
 BASCULEGION_F
 OVERQWIL
->>>>>>> Stashed changes

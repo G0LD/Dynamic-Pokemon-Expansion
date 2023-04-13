@@ -1108,7 +1108,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_GROOKEY] =              gIconSprite1102GrookeyTiles,
 	[SPECIES_THWACKEY] =             gIconSprite1103ThwackeyTiles,
 	[SPECIES_RILLABOOM] =            gIconSprite1104RillaboomTiles,
-/*	[SPECIES_SCORBUNNY] =            gIconSprite1105ScorbunnyTiles,
+	[SPECIES_SCORBUNNY] =            gIconSprite1105ScorbunnyTiles,
 	[SPECIES_RABOOT] =               gIconSprite1106RabootTiles,
 	[SPECIES_CINDERACE] =            gIconSprite1107CinderaceTiles,
 	[SPECIES_SOBBLE] =               gIconSprite1108SobbleTiles,
@@ -1237,8 +1237,6 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_DARMANITAN_G_ZEN] =     gIconSprite1231DarmanitanGZenTiles,
 	[SPECIES_YAMASK_G] =             gIconSprite1232YamaskGTiles,
 	[SPECIES_STUNFISK_G] =           gIconSprite1233StunfiskGTiles,
-<<<<<<< Updated upstream
-=======
 	[SPECIES_GROWLITHE_H] =          gIconSprite1234GrowlitheHTiles,
 	[SPECIES_ARCANINE_H] =           gIconSprite1235ArcanineHTiles,
 	[SPECIES_VOLTORB_H] =            gIconSprite1236VoltorbHTiles,
@@ -1274,7 +1272,6 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_FERALIGATR_MEGA] =      gIconSprite160FeraligatrMegaTiles,
 	//New Species Go Here
 
->>>>>>> Stashed changes
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,
 	[SPECIES_CHARIZARD_GIGA] =       gIconSpriteGigaCharizardTiles,
 	[SPECIES_BLASTOISE_GIGA] =       gIconSpriteGigaBlastoiseTiles,

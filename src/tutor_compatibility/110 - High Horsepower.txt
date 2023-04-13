@@ -89,8 +89,5 @@ COPPERAJAH
 DRACOZOLT
 GLASTRIER
 CALYREX_ICE_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
 URSALUNA
->>>>>>> Stashed changes

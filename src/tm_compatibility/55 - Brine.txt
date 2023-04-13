@@ -137,9 +137,6 @@ ARCTOVISH
 DRAKLOAK
 DRAGAPULT
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 BASCULEGION_M
 BASCULEGION_F
 OVERQWIL
->>>>>>> Stashed changes

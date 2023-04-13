@@ -262,8 +262,5 @@ SLOWKING_G
 MIME_JR_G
 DARUMAKA_G
 DARMANITAN_G
-<<<<<<< Updated upstream
-=======
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

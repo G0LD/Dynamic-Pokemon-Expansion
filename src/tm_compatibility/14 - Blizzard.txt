@@ -284,7 +284,4 @@ ARCTOZOLT
 ARCTOVISH
 GLASTRIER
 CALYREX_ICE_RIDER
-<<<<<<< Updated upstream
-=======
 OVERQWIL
->>>>>>> Stashed changes

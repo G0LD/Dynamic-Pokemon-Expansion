@@ -232,8 +232,5 @@ ARCTOVISH
 DURALUDON
 URSHIFU_SINGLE
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
->>>>>>> Stashed changes

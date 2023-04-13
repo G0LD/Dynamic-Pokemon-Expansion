@@ -345,8 +345,5 @@ CALYREX_ICE_RIDER
 CALYREX_SHADOW_RIDER
 PONYTA_G
 RAPIDASH_G
-<<<<<<< Updated upstream
-=======
 WYRDEER
 OVERQWIL
->>>>>>> Stashed changes

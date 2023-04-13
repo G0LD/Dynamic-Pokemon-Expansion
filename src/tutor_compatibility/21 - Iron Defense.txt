@@ -300,7 +300,4 @@ URSHIFU_SINGLE
 URSHIFU_RAPID
 GLASTRIER
 CALYREX_ICE_RIDER
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

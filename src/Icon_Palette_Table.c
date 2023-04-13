@@ -1110,8 +1110,8 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_SCORBUNNY] = 0x0,
 	[SPECIES_RABOOT] = 0x0,
 	[SPECIES_CINDERACE] = 0x0,
-	[SPECIES_SOBBLE] = 0x2,
-	[SPECIES_DRIZZILE] = 0x2,
+	[SPECIES_SOBBLE] = 0x0,
+	[SPECIES_DRIZZILE] = 0x0,
 	[SPECIES_INTELEON] = 0x0,
 	[SPECIES_SKWOVET] = 0x2,
 	[SPECIES_GREEDENT] = 0x0,
@@ -1158,11 +1158,7 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_GRIMMSNARL] = 0x0,
 	[SPECIES_OBSTAGOON] = 0x0,
 	[SPECIES_PERRSERKER] = 0x2,
-<<<<<<< Updated upstream
-	[SPECIES_CURSOLA] = 0x0,
-=======
 	[SPECIES_CURSOLA] = 0x2,
->>>>>>> Stashed changes
 	[SPECIES_SIRFETCHD] = 0x1,
 	[SPECIES_MR_RIME] = 0x0,
 	[SPECIES_RUNERIGUS] = 0x2,
@@ -1175,19 +1171,11 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_STONJOURNER] = 0x2,
 	[SPECIES_EISCUE] = 0x0,
 	[SPECIES_INDEEDEE] = 0x2,
-<<<<<<< Updated upstream
-	[SPECIES_MORPEKO] = 0x2,
-	[SPECIES_CUFANT] = 0x0,
-	[SPECIES_COPPERAJAH] = 0x0,
-	[SPECIES_DRACOZOLT] = 0x1,
-	[SPECIES_ARCTOZOLT] = 0x2,
-=======
 	[SPECIES_MORPEKO] = 0x1,
 	[SPECIES_CUFANT] = 0x0,
 	[SPECIES_COPPERAJAH] = 0x0,
 	[SPECIES_DRACOZOLT] = 0x1,
 	[SPECIES_ARCTOZOLT] = 0x0,
->>>>>>> Stashed changes
 	[SPECIES_DRACOVISH] = 0x0,
 	[SPECIES_ARCTOVISH] = 0x0,
 	[SPECIES_DURALUDON] = 0x0,
@@ -1201,11 +1189,7 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_URSHIFU_SINGLE] = 0x2,
 	[SPECIES_ZARUDE] = 0x1,
 	[SPECIES_REGIELEKI] = 0x0,
-<<<<<<< Updated upstream
-	[SPECIES_REGIDRAGO] = 0x2,
-=======
 	[SPECIES_REGIDRAGO] = 0x0,
->>>>>>> Stashed changes
 	[SPECIES_GLASTRIER] = 0x0,
 	[SPECIES_SPECTRIER] = 0x0,
 	[SPECIES_CALYREX] = 0x0,
@@ -1233,11 +1217,7 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_MEOWTH_G] = 0x2,
 	[SPECIES_PONYTA_G] = 0x2,
 	[SPECIES_RAPIDASH_G] = 0x2,
-<<<<<<< Updated upstream
-	[SPECIES_SLOWPOKE_G] = 0x1,
-=======
 	[SPECIES_SLOWPOKE_G] = 0x0,
->>>>>>> Stashed changes
 	[SPECIES_SLOWBRO_G] = 0x0,
 	[SPECIES_FARFETCHD_G] = 0x1,
 	[SPECIES_KOFFING_G] = 0x2,
@@ -1245,8 +1225,8 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_MR_MIME_G] = 0x0,
 	[SPECIES_ARTICUNO_G] = 0x2,
 	[SPECIES_ZAPDOS_G] = 0x0,
-	[SPECIES_MOLTRES_G] = 0x1,
-	[SPECIES_SLOWKING_G] = 0x2,
+	[SPECIES_MOLTRES_G] = 0x0,
+	[SPECIES_SLOWKING_G] = 0x0,
 	[SPECIES_CORSOLA_G] = 0x0,
 	[SPECIES_ZIGZAGOON_G] = 0x0,
 	[SPECIES_LINOONE_G] = 0x0,
@@ -1256,8 +1236,6 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_DARMANITAN_G_ZEN] = 0x0,
 	[SPECIES_YAMASK_G] = 0x2,
 	[SPECIES_STUNFISK_G] = 0x1,
-<<<<<<< Updated upstream
-=======
 	[SPECIES_GROWLITHE_H] = 0x0,
 	[SPECIES_ARCANINE_H] = 0x0,
 	[SPECIES_VOLTORB_H] = 0x0,
@@ -1293,7 +1271,6 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_FERALIGATR_MEGA] = 0x0,
 	//New Species Go Here
 
->>>>>>> Stashed changes
 	[SPECIES_VENUSAUR_GIGA] = 0x0,
 	[SPECIES_CHARIZARD_GIGA] = 0x0,
 	[SPECIES_BLASTOISE_GIGA] = 0x0,
@@ -1303,11 +1280,7 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_MACHAMP_GIGA] = 0x0,
 	[SPECIES_GENGAR_GIGA] = 0x2,
 	[SPECIES_KINGLER_GIGA] = 0x0,
-<<<<<<< Updated upstream
-	[SPECIES_LAPRAS_GIGA] = 0x2,
-=======
 	[SPECIES_LAPRAS_GIGA] = 0x0,
->>>>>>> Stashed changes
 	[SPECIES_EEVEE_GIGA] = 0x2,
 	[SPECIES_SNORLAX_GIGA] = 0x1,
 	[SPECIES_GARBODOR_GIGA] = 0x0,
@@ -1321,11 +1294,7 @@ const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 	[SPECIES_COALOSSAL_GIGA] = 0x0,
 	[SPECIES_FLAPPLE_GIGA] = 0x1,
 	[SPECIES_APPLETUN_GIGA] = 0x1,
-<<<<<<< Updated upstream
-	[SPECIES_SANDACONDA_GIGA] = 0x1,
-=======
 	[SPECIES_SANDACONDA_GIGA] = 0x2,
->>>>>>> Stashed changes
 	[SPECIES_TOXTRICITY_GIGA] = 0x0,
 	[SPECIES_TOXTRICITY_LOW_KEY_GIGA] = 0x0,
 	[SPECIES_CENTISKORCH_GIGA] = 0x0,

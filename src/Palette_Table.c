@@ -1111,7 +1111,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_GROOKEY] =              {gFrontSprite1102GrookeyPal, SPECIES_GROOKEY, 0x0},
 	[SPECIES_THWACKEY] =             {gFrontSprite1103ThwackeyPal, SPECIES_THWACKEY, 0x0},
 	[SPECIES_RILLABOOM] =            {gFrontSprite1104RillaboomPal, SPECIES_RILLABOOM, 0x0},
-/*	[SPECIES_SCORBUNNY] =            {gFrontSprite1105ScorbunnyPal, SPECIES_SCORBUNNY, 0x0},
+	[SPECIES_SCORBUNNY] =            {gFrontSprite1105ScorbunnyPal, SPECIES_SCORBUNNY, 0x0},
 	[SPECIES_RABOOT] =               {gFrontSprite1106RabootPal, SPECIES_RABOOT, 0x0},
 	[SPECIES_CINDERACE] =            {gFrontSprite1107CinderacePal, SPECIES_CINDERACE, 0x0},
 	[SPECIES_SOBBLE] =               {gFrontSprite1108SobblePal, SPECIES_SOBBLE, 0x0},
@@ -1240,8 +1240,6 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_DARMANITAN_G_ZEN] =     {gFrontSprite1231DarmanitanGZenPal, SPECIES_DARMANITAN_G_ZEN, 0x0},
 	[SPECIES_YAMASK_G] =             {gFrontSprite1232YamaskGPal, SPECIES_YAMASK_G, 0x0},
 	[SPECIES_STUNFISK_G] =           {gFrontSprite1233StunfiskGPal, SPECIES_STUNFISK_G, 0x0},
-<<<<<<< Updated upstream
-=======
 	[SPECIES_GROWLITHE_H] =          {gFrontSprite1234GrowlitheHPal, SPECIES_GROWLITHE_H, 0x0},
 	[SPECIES_ARCANINE_H] =           {gFrontSprite1235ArcanineHPal, SPECIES_ARCANINE_H, 0x0},
 	[SPECIES_VOLTORB_H] =            {gFrontSprite1236VoltorbHPal, SPECIES_VOLTORB_H, 0x0},
@@ -1277,7 +1275,6 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_FERALIGATR_MEGA] =      {gFrontSprite160FeraligatrMegaPal, SPECIES_FERALIGATR_MEGA, 0x0},
 	//New Species Go Here
 
->>>>>>> Stashed changes
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},
 	[SPECIES_CHARIZARD_GIGA] =       {gFrontSpriteGigaCharizardPal, SPECIES_CHARIZARD_GIGA, 0x0},
 	[SPECIES_BLASTOISE_GIGA] =       {gFrontSpriteGigaBlastoisePal, SPECIES_BLASTOISE_GIGA, 0x0},

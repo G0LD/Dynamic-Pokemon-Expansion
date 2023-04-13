@@ -300,7 +300,4 @@ ARCTOVISH
 DRAKLOAK
 DRAGAPULT
 URSHIFU_RAPID
-<<<<<<< Updated upstream
-=======
 OVERQWIL
->>>>>>> Stashed changes

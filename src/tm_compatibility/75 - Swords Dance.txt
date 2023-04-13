@@ -295,10 +295,7 @@ ZACIAN
 ZACIAN_CROWNED
 GLASTRIER
 CALYREX_ICE_RIDER
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
 SNEASLER
 OVERQWIL
->>>>>>> Stashed changes

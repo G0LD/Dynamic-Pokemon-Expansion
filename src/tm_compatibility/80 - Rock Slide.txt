@@ -423,8 +423,5 @@ URSHIFU_SINGLE
 URSHIFU_RAPID
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 URSALUNA
->>>>>>> Stashed changes

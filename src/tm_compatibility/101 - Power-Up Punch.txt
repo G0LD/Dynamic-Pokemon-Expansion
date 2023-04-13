@@ -261,8 +261,5 @@ ZARUDE_DADA
 SLOWBRO_G
 MR_MIME_G
 SLOWKING_G
-<<<<<<< Updated upstream
-=======
 URSALUNA
 SNEASLER
->>>>>>> Stashed changes

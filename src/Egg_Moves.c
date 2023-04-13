@@ -4390,87 +4390,8 @@ const u16 gEggMoves[] =
 		MOVE_DETECT,
 		MOVE_ENDURE,
 		MOVE_CHIPAWAY,
-<<<<<<< Updated upstream
-		MOVE_CURSE),
-
-	egg_moves(KOFFING_G,
-		MOVE_SCREECH,
-		MOVE_PSYWAVE,
-		MOVE_PSYBEAM,
-		MOVE_DESTINYBOND,
-		MOVE_PAINSPLIT,
-		MOVE_GRUDGE,
-		MOVE_SPITE,
-		MOVE_CURSE,
-		MOVE_STOCKPILE,
-		MOVE_SWALLOW,
-		MOVE_SPITUP,
-		MOVE_TOXICSPIKES,
-		MOVE_VENOMDRENCH),
-	
-	egg_moves(MIME_JR_G,
-		MOVE_FUTURESIGHT,
-		MOVE_HYPNOSIS,
-		MOVE_MIMIC,
-		MOVE_FAKEOUT,
-		MOVE_TRICK,
-		MOVE_CONFUSERAY,
-		MOVE_WAKEUPSLAP,
-		MOVE_TEETERDANCE,
-		MOVE_HEALINGWISH,
-		MOVE_CHARM,
-		MOVE_NASTYPLOT,
-		MOVE_POWERSPLIT,
-		MOVE_MAGICROOM,
-		MOVE_ICYWIND,
-		MOVE_PSYCHICTERRAIN),
-	
-	egg_moves(MR_MIME_G,
-		MOVE_CONFUSERAY,
-		MOVE_FAKEOUT,
-		MOVE_HYPNOSIS,
-		MOVE_POWERSPLIT,
-		MOVE_TICKLE),
-	
-	egg_moves(CORSOLA_G,
-		MOVE_CONFUSERAY,
-		MOVE_DESTINYBOND,
-		MOVE_HAZE,
-		MOVE_HEADSMASH,
-		MOVE_NATUREPOWER,
-		MOVE_WATERPULSE),
-	
-	egg_moves(ZIGZAGOON_G,
-		MOVE_KNOCKOFF,
-		MOVE_PARTINGSHOT,
-		MOVE_QUICKGUARD),
-	
-	egg_moves(DARUMAKA_G,
-		MOVE_FLAMEWHEEL,
-		MOVE_FOCUSPUNCH,
-		MOVE_FREEZEDRY,
-		MOVE_HAMMERARM,
-		MOVE_INCINERATE,
-		MOVE_POWERUPPUNCH,
-		MOVE_TAKEDOWN,
-		MOVE_YAWN),
-	
-	egg_moves(YAMASK_G,
-		MOVE_MEMENTO),
-	
-	egg_moves(STUNFISK_G,
-		MOVE_ASTONISH,
-		MOVE_BIND,
-		MOVE_COUNTER,
-		MOVE_CURSE,
-		MOVE_PAINSPLIT,
-		MOVE_REFLECTTYPE,
-		MOVE_SPITE,
-		MOVE_YAWN),
-=======
 		MOVE_CURSE,
 		MOVE_THRASH),
->>>>>>> Stashed changes
 
 	egg_moves(ORICORIO_Y,
 		MOVE_PLUCK,
@@ -4485,12 +4406,7 @@ const u16 gEggMoves[] =
 	egg_moves(ORICORIO_S,
 		MOVE_PLUCK,
 		MOVE_TAILWIND,
-<<<<<<< Updated upstream
-		MOVE_SAFEGUARD,
-		MOVE_CAPTIVATE),
-=======
 		MOVE_SAFEGUARD),
->>>>>>> Stashed changes
 
 	egg_moves(GROOKEY,
 		MOVE_GROWTH,
@@ -4608,12 +4524,8 @@ const u16 gEggMoves[] =
 		MOVE_KNOCKOFF,
 		MOVE_STRUGGLEBUG,
 		MOVE_ROLLOUT,
-<<<<<<< Updated upstream
-		MOVE_DEFENSECURL),
-=======
 		MOVE_DEFENSECURL,
 		MOVE_BURNUP),
->>>>>>> Stashed changes
 
 	egg_moves(CLOBBOPUS,
 		MOVE_PAINSPLIT,
@@ -4621,12 +4533,8 @@ const u16 gEggMoves[] =
 		MOVE_SUCKERPUNCH,
 		MOVE_CIRCLETHROW,
 		MOVE_SEISMICTOSS,
-<<<<<<< Updated upstream
-		MOVE_POWERUPPUNCH),
-=======
 		MOVE_POWERUPPUNCH,
 		MOVE_AQUAJET),
->>>>>>> Stashed changes
 
 	egg_moves(HATENNA,
 		MOVE_AROMATICMIST,
@@ -4656,10 +4564,6 @@ const u16 gEggMoves[] =
 		MOVE_AQUARING,
 		MOVE_BELLYDRUM,
 		MOVE_DOUBLEEDGE,
-<<<<<<< Updated upstream
-		MOVE_ICICLECRASH,
-=======
->>>>>>> Stashed changes
 		MOVE_HEADSMASH),
 
 	egg_moves(INDEEDEE,
@@ -4721,24 +4625,16 @@ const u16 gEggMoves[] =
 		MOVE_HYPNOSIS,
 		MOVE_DOUBLEEDGE,
 		MOVE_HORNDRILL,
-<<<<<<< Updated upstream
-		MOVE_MORNINGSUN),
-=======
 		MOVE_MORNINGSUN,
 		MOVE_HEALINGWISH),
->>>>>>> Stashed changes
 
 	egg_moves(SLOWPOKE_G,
 		MOVE_BELCH,
 		MOVE_BELLYDRUM,
 		MOVE_BLOCK,
-<<<<<<< Updated upstream
-		MOVE_STOMP),
-=======
 		MOVE_STOMP,
 		MOVE_FUTURESIGHT,
 		MOVE_TELEPORT),
->>>>>>> Stashed changes
 
 	egg_moves(FARFETCHD_G,
 		MOVE_COUNTER,
@@ -4795,8 +4691,6 @@ const u16 gEggMoves[] =
 		MOVE_PAINSPLIT,
 		MOVE_REFLECTTYPE),
 
-<<<<<<< Updated upstream
-=======
 	egg_moves(GROWLITHE_H,
 		MOVE_BODYSLAM,
 		MOVE_THRASH,
@@ -4854,7 +4748,6 @@ const u16 gEggMoves[] =
 		MOVE_COUNTER,
 		MOVE_COPYCAT),
 
->>>>>>> Stashed changes
 	EGG_MOVES_TERMINATOR
 };
 

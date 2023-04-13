@@ -253,9 +253,6 @@ URSHIFU_SINGLE
 URSHIFU_RAPID
 ZARUDE
 ZARUDE_DADA
-<<<<<<< Updated upstream
-=======
 KLEAVOR
 ENAMORUS
 ENAMORUS_THERIAN
->>>>>>> Stashed changes

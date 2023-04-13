@@ -60,7 +60,4 @@ ZACIAN
 ZACIAN_CROWNED
 SPECTRIER
 CALYREX_SHADOW_RIDER
-<<<<<<< Updated upstream
-=======
 KLEAVOR
->>>>>>> Stashed changes

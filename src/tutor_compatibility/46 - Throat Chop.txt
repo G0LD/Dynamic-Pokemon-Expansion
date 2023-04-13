@@ -132,11 +132,8 @@ ZARUDE
 ZARUDE_DADA
 GLASTRIER
 CALYREX_ICE_RIDER
-<<<<<<< Updated upstream
-=======
 WYRDEER
 KLEAVOR
 URSALUNA
 SNEASLER
 OVERQWIL
->>>>>>> Stashed changes
