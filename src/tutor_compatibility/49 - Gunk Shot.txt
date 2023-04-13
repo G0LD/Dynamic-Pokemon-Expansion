@@ -92,3 +92,8 @@ TOXTRICITY_LOW_KEY
 OBSTAGOON
 PERRSERKER
 ETERNATUS
+<<<<<<< Updated upstream
+=======
+URSALUNA
+SNEASLER
+>>>>>>> Stashed changes

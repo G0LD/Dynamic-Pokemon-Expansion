@@ -4,6 +4,10 @@
 
 .equ EVOS_PER_MON, 16
 .equ FINAL_DEX_ENTRY, 898
+<<<<<<< Updated upstream
+=======
+.equ FINAL_GEN_7_DEX_ENTRY, 809
+>>>>>>> Stashed changes
 
 @;.equ SEEN_DEX_FLAGS, 0x202583C
 @;.equ CAUGHT_DEX_FLAGS, (SEEN_DEX_FLAGS + (FINAL_DEX_ENTRY / 8) + 1)
@@ -39,7 +43,7 @@ add r3, #EVOS_PER_MON * 8
 
 @@Fix Dex Views@@
 .org 0x88EA4, 0xFF @Pokedex Count
-.word FINAL_DEX_ENTRY - 1
+.word FINAL_GEN_7_DEX_ENTRY - 1
 
 .org 0x1037D4, 0xFF @Weight View
 .word FINAL_DEX_ENTRY - 1

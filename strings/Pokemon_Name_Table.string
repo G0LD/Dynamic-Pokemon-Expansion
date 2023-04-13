@@ -758,11 +758,11 @@ Ho-Oh
 #org @NAME_CELEBI
 Celebi
 
-#org @NAME_OLD_UNOWN_1
-?
+#org @NAME_MANAPHY_EGG
+Egg
 
-#org @NAME_OLD_UNOWN_2
-?
+#org @NAME_MISSINGNO
+MISSINGNO.
 
 #org @NAME_OLD_UNOWN_3
 ?
@@ -3703,6 +3703,105 @@ Yamask
 
 #org @NAME_STUNFISK_G
 Stunfisk
+
+#org @NAME_GROWLITHE_H
+Growlithe
+
+#org @NAME_ARCANINE_H
+Arcanine
+
+#org @NAME_VOLTORB_H
+Voltorb
+
+#org @NAME_ELECTRODE_H
+Electrode
+
+#org @NAME_TYPHLOSION_H
+Typhlosion
+
+#org @NAME_QWILFISH_H
+Qwilfish
+
+#org @NAME_SNEASEL_H
+Sneasel
+
+#org @NAME_SAMUROTT_H
+Samurott
+
+#org @NAME_LILLIGANT_H
+Lilligant
+
+#org @NAME_BASCULIN_H
+Basculin
+
+#org @NAME_ZORUA_H
+Zorua
+
+#org @NAME_ZOROARK_H
+Zoroark
+
+#org @NAME_BRAVIARY_H
+Braviary
+
+#org @NAME_SLIGGOO_H
+Sliggoo
+
+#org @NAME_GOODRA_H
+Goodra
+
+#org @NAME_AVALUGG_H
+Avalugg
+
+#org @NAME_DECIDUEYE_H
+Decidueye
+
+#org @NAME_WYRDEER
+Wyrdeer
+
+#org @NAME_KLEAVOR
+Kleavor
+
+#org @NAME_URSALUNA
+Ursaluna
+
+#org @NAME_BASCULEGION_M
+Basculegon
+
+#org @NAME_BASCULEGION_F
+Basculegon
+
+#org @NAME_SNEASLER
+Sneasler
+
+#org @NAME_OVERQWIL
+Overqwil
+
+#org @NAME_ENAMORUS
+Enamorus
+
+#org @NAME_ENAMORUS_THERIAN
+Enamorus
+
+#org @NAME_ANNIHILAPE
+Annihilape
+
+#org @NAME_FARIGIRAF
+Farigiraf
+
+#org @NAME_DUDUNSPARCE
+Dudunspars
+
+#org @NAME_KINGAMBIT
+Kingambit
+
+#org @NAME_MMEEGANIUM
+Meganium
+
+#org @NAME_MTYPHLOSION
+Typhlosion
+
+#org @NAME_MFERALIGATR
+Feraligatr
 
 #org @NAME_VENUSAUR_GIGA
 Venusaur

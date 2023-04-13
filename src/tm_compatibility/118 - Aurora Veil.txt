@@ -20,6 +20,10 @@ AMAURA
 AURORUS
 BERGMITE
 AVALUGG
+<<<<<<< Updated upstream
+=======
+AVALUGG_H
+>>>>>>> Stashed changes
 MR_RIME
 FROSMOTH
 EISCUE

@@ -5,13 +5,13 @@ import shutil
 import sys
 
 ############
-#Options go here.
+# Options go here.
 ############
 
-ROM_NAME = "BPRE0.gba"  #The name of your rom
-OFFSET_TO_PUT = 0x1800000
+ROM_NAME = "BPRE00.gba"  # The name of your rom
+OFFSET_TO_PUT = 0x1400000
 SEARCH_FREE_SPACE = False  # Set to True if you want the script to search for free space
-                           # Set to False if you don't want to search for free space as you for example update the engine
+                           # Set to False if you don't want to search for free space as you update the engine
 
 #############
 # Options end here.

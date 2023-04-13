@@ -6,6 +6,10 @@ TORTERRA
 SERPERIOR
 CHESNAUGHT
 DECIDUEYE
+<<<<<<< Updated upstream
+=======
+DECIDUEYE_H
+>>>>>>> Stashed changes
 GROOKEY
 THWACKEY
 RILLABOOM 

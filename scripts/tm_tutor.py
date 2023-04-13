@@ -4,8 +4,13 @@ from glob import glob
 
 # Data
 TM_HM_COUNT = 128
+<<<<<<< Updated upstream
 TUTOR_COUNT = 128
 SPECIES_COUNT = 0x4F3 + 1
+=======
+TUTOR_COUNT = 146
+SPECIES_COUNT = 0x50D + 1
+>>>>>>> Stashed changes
 
 TM_OUTPUT = "assembly/generated/tm_compatibility.s"
 TUTOR_OUTPUT = "assembly/generated/tutor_compatibility.s"
@@ -107,6 +112,9 @@ def ReverseString(string: str) -> str:
 
 
 def PokemonDataListInitializer(numEntries: int) -> [[]]:
+    if numEntries % 32 != 0:
+        numEntries = 32 * (numEntries // 32 + 1)  # Round up to the nearest multiple of 32
+
     outerList = []
     for a in range(int(SPECIES_COUNT)):
         innerList = [0] * numEntries
