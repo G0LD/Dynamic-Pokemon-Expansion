@@ -9724,42 +9724,6 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerScale = 0,
 		.trainerOffset = 0,
 	},
-	[NATIONAL_DEX_GROOKEY] =
-	{
-		.categoryName = {_C, _h, _i, _m, _p, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
-		.height = 3,
-		.weight = 50,
-		.description = DEX_ENTRY_GROOKEY,
-		.unusedDescription = (const u8*) 0x8444cb1,
-		.pokemonScale = 0,
-		.pokemonOffset = 0,
-		.trainerScale = 0,
-		.trainerOffset = 0,
-	},
-	[NATIONAL_DEX_THWACKEY] =
-	{
-		.categoryName = {_B, _e, _a, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
-		.height = 7,
-		.weight = 140,
-		.description = DEX_ENTRY_THWACKEY,
-		.unusedDescription = (const u8*) 0x8444cb1,
-		.pokemonScale = 0,
-		.pokemonOffset = 0,
-		.trainerScale = 0,
-		.trainerOffset = 0,
-	},
-	[NATIONAL_DEX_RILLABOOM] =
-	{
-		.categoryName = {_D, _r, _u, _m, _m, _e, _r, _END, _SPACE, _SPACE, _SPACE, _SPACE},
-		.height = 21,
-		.weight = 900,
-		.description = DEX_ENTRY_RILLABOOM,
-		.unusedDescription = (const u8*) 0x8444cb1,
-		.pokemonScale = 0,
-		.pokemonOffset = 0,
-		.trainerScale = 0,
-		.trainerOffset = 0,
-	},
 	[NATIONAL_DEX_SCORBUNNY] =
 	{
 		.categoryName = {_R, _a, _b, _b, _i, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},

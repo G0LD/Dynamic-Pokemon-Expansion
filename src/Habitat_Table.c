@@ -917,19 +917,12 @@ const u16 gForestPage60[] =
 
 const u16 gForestPage61[] =
 {
-	SPECIES_GROOKEY,
-	SPECIES_THWACKEY,
-	SPECIES_RILLABOOM,
-};
-
-const u16 gForestPage62[] =
-{
 	SPECIES_APPLIN,
 	SPECIES_FLAPPLE,
 	SPECIES_APPLETUN,
 };
 
-const u16 gForestPage63[] =
+const u16 gForestPage62[] =
 {
 	SPECIES_PONYTA_G,
 	SPECIES_RAPIDASH_G,
@@ -937,14 +930,14 @@ const u16 gForestPage63[] =
 	SPECIES_INDEEDEE_FEMALE,
 };
 
-const u16 gForestPage64[] =
+const u16 gForestPage63[] =
 {
 	SPECIES_HATENNA,
 	SPECIES_HATTREM,
 	SPECIES_HATTERENE,
 };
 
-const u16 gForestPage65[] =
+const u16 gForestPage64[] =
 {
 	SPECIES_IMPIDIMP,
 	SPECIES_MORGREM,
@@ -2784,7 +2777,6 @@ const struct HabitatPage gForestPages[] =
 	{gForestPage62, ARRAY_COUNT(gForestPage62)},
 	{gForestPage63, ARRAY_COUNT(gForestPage63)},
 	{gForestPage64, ARRAY_COUNT(gForestPage64)},
-	{gForestPage65, ARRAY_COUNT(gForestPage65)},
 };
 
 const struct HabitatPage gWatersEdgePages[] =
