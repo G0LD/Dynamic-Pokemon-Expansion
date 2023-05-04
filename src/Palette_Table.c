@@ -1273,6 +1273,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_MEGANIUM_MEGA] =        {gFrontSprite154MeganiumMegaPal, SPECIES_MEGANIUM_MEGA, 0x0},
 	[SPECIES_TYPHLOSION_MEGA] =      {gFrontSprite157TyphlosionMegaPal, SPECIES_TYPHLOSION_MEGA, 0x0},
 	[SPECIES_FERALIGATR_MEGA] =      {gFrontSprite160FeraligatrMegaPal, SPECIES_FERALIGATR_MEGA, 0x0},
+	[SPECIES_LUXRAY_MEGA] =     	 {gFrontSprite1264LuxrayMegaPal, SPECIES_LUXRAY_MEGA, 0x0},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},

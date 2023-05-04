@@ -1273,6 +1273,7 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_MEGANIUM_MEGA] =        {gBackShinySprite154MeganiumMegaTiles, (64 * 64) / 2, SPECIES_MEGANIUM_MEGA},
 	[SPECIES_TYPHLOSION_MEGA] =      {gBackShinySprite157TyphlosionMegaTiles, (64 * 64) / 2, SPECIES_TYPHLOSION_MEGA},
 	[SPECIES_FERALIGATR_MEGA] =      {gBackShinySprite160FeraligatrMegaTiles, (64 * 64) / 2, SPECIES_FERALIGATR_MEGA},
+	[SPECIES_LUXRAY_MEGA] =      	 {gBackShinySprite1264LuxrayMegaTiles, (64 * 64) / 2, SPECIES_LUXRAY_MEGA},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},

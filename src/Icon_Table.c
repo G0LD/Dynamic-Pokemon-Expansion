@@ -1270,6 +1270,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_MEGANIUM_MEGA] =        gIconSprite154MeganiumMegaTiles,
 	[SPECIES_TYPHLOSION_MEGA] =      gIconSprite157TyphlosionMegaTiles,
 	[SPECIES_FERALIGATR_MEGA] =      gIconSprite160FeraligatrMegaTiles,
+	[SPECIES_LUXRAY_MEGA] =     	 gIconSprite1264LuxrayMegaTiles,
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,
