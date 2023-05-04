@@ -21946,6 +21946,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[] =
 	[SPECIES_MEGANIUM_MEGA] = sMeganiumLevelUpLearnset,
 	[SPECIES_TYPHLOSION_MEGA] = sTyphlosionLevelUpLearnset,
 	[SPECIES_FERALIGATR_MEGA] = sFeraligatrLevelUpLearnset,
+	[SPECIES_LUXRAY_MEGA] = sLuxrayLevelUpLearnset,
 
 	[SPECIES_VENUSAUR_GIGA] = sVenusaurLevelUpLearnset,
 	[SPECIES_CHARIZARD_GIGA] = sCharizardLevelUpLearnset,
