@@ -10,7 +10,6 @@ GetFrontSpritePalFromSpeciesAndPersonality 80440F4 3
 GetMonSpritePalStructFromOtIdPersonality 8044180 3
 GetEggSpecies 8045970 1
 GetEggMoves 8045C28 2
-
 CreateMonSprite_PicBoxHook 808398C 1
 GetRegionalPokedexCount 8088EDC 1
 HasAllRegionalMons 8088F58 0
