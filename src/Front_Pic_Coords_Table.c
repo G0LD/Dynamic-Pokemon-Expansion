@@ -1263,15 +1263,15 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x55,
 		.y_offset = 0xc,
 	},
-	[SPECIES_MANAPHY_EGG] =
+	[252] =
 	{
 		.size = 0x88,
-		.y_offset = 0x10,
+		.y_offset = 0x6,
 	},
-	[SPECIES_MISSINGNO] =
+	[253] =
 	{
 		.size = 0x88,
-		.y_offset = 0x2,
+		.y_offset = 0x6,
 	},
 	[254] =
 	{

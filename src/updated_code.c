@@ -255,46 +255,6 @@ u16 GetIconSpecies(u16 species, u32 personality)
 	return result;
 }
 
-u16 TryReplaceSpeciesWithManaphyEgg(struct Pokemon* mon, u16 species)
-{
-	if (species == SPECIES_EGG)
-	{
-		if (mon->species == SPECIES_MANAPHY)
-			return SPECIES_MANAPHY_EGG;
-	}
-
-	return species;
-}
-
-bool8 IsPartyMonManaphy(u8 partyId)
-{
-	return gPlayerParty[partyId].species == SPECIES_MANAPHY;
-}
-
-u16 GetBoxMonSpeciesAt_HandleManaphyEgg(u8 boxId, u8 boxPosition)
-{
-	u16 species2 = GetBoxMonDataAt(boxId, boxPosition, MON_DATA_SPECIES2);
-
-	if (species2 == SPECIES_EGG && GetBoxMonDataAt(boxId, boxPosition, MON_DATA_SPECIES) == SPECIES_MANAPHY)
-		return SPECIES_MANAPHY_EGG;
-
-	return species2;
-}
-
-#define gCurrentBoxMonId *((u8*) *((u32*) 0x3005010))
-u16 GetCurrentBoxMonSpeciesAt_HandleManaphyEgg(u8 boxPosition)
-{
-	return GetBoxMonSpeciesAt_HandleManaphyEgg(gCurrentBoxMonId, boxPosition);
-}
-
-u16 ChangeSpeciesIfManaphyEggPalette(const u8* palette, u16 species)
-{
-	if (palette == gMonPaletteTable[SPECIES_MANAPHY_EGG].data)
-		species = SPECIES_MANAPHY_EGG;
-
-	return species;
-}
-
 bool8 IsInBattle(void)
 {
 	return gMain.inBattle;
