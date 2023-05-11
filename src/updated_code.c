@@ -259,8 +259,8 @@ u16 TryReplaceSpeciesWithManaphyEgg(struct Pokemon* mon, u16 species)
 {
 	if (species == SPECIES_EGG)
 	{
-		if (mon->species == SPECIES_MANAPHY)
-			return SPECIES_MANAPHY_EGG;
+		if (mon->species == 0xff)
+			return 0xff;
 	}
 
 	return species;
@@ -268,15 +268,15 @@ u16 TryReplaceSpeciesWithManaphyEgg(struct Pokemon* mon, u16 species)
 
 bool8 IsPartyMonManaphy(u8 partyId)
 {
-	return gPlayerParty[partyId].species == SPECIES_MANAPHY;
+	return gPlayerParty[partyId].species == 0xff;
 }
 
 u16 GetBoxMonSpeciesAt_HandleManaphyEgg(u8 boxId, u8 boxPosition)
 {
 	u16 species2 = GetBoxMonDataAt(boxId, boxPosition, MON_DATA_SPECIES2);
 
-	if (species2 == SPECIES_EGG && GetBoxMonDataAt(boxId, boxPosition, MON_DATA_SPECIES) == SPECIES_MANAPHY)
-		return SPECIES_MANAPHY_EGG;
+	if (species2 == SPECIES_EGG && GetBoxMonDataAt(boxId, boxPosition, MON_DATA_SPECIES) == 0xff)
+		return 0xff;
 
 	return species2;
 }
@@ -289,8 +289,8 @@ u16 GetCurrentBoxMonSpeciesAt_HandleManaphyEgg(u8 boxPosition)
 
 u16 ChangeSpeciesIfManaphyEggPalette(const u8* palette, u16 species)
 {
-	if (palette == gMonPaletteTable[SPECIES_MANAPHY_EGG].data)
-		species = SPECIES_MANAPHY_EGG;
+	if (palette == gMonPaletteTable[0xff].data)
+		species = 0xff;
 
 	return species;
 }

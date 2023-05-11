@@ -64,15 +64,15 @@ bxr0:
 
 .align 2
 sManaphyEgg_Sheet:
-.word ManaphyEggHatchTiles
+.word gFrontSprite000NoneTiles
 .hword 2048, 12345
 
 sManaphyEggShards_Sheet:
-.word ManaphyEggShardsTiles
+.word gFrontSprite000NoneTiles
 .hword 128, 23456
 
 sManaphyEgg_SpritePalette:
-.word ManaphyEggHatchPal
+.word gFrontSprite000NonePal
 .hword 54321, 0
 
 .pool
