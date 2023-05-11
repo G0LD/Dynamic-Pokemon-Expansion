@@ -519,6 +519,7 @@ extern const u8 gFrontSprite540GiratinaTiles[];
 extern const u8 gFrontSprite541CresseliaTiles[];
 extern const u8 gFrontSprite542PhioneTiles[];
 extern const u8 gFrontSprite543ManaphyTiles[];
+extern const u8 gSpriteManaphyEggTiles[];
 extern const u8 gFrontSprite544DarkraiTiles[];
 extern const u8 gFrontSprite545ShayminTiles[];
 extern const u8 gFrontSprite546ArceusTiles[];
@@ -1275,7 +1276,6 @@ extern const u8 gFrontSpriteGigaUrshifuSingleTiles[];
 extern const u8 gFrontSpriteGigaUrshifuRapidTiles[];
 
 extern const u8 gFrontSprite252Tiles[];
-extern const u8 gFrontSpriteMissingnoTiles[];
 
 extern const u8 gBackShinySprite000NoneTiles[];
 extern const u8 gBackShinySprite001BulbasaurTiles[];
@@ -2552,7 +2552,6 @@ extern const u8 gBackShinySpriteGigaUrshifuSingleTiles[];
 extern const u8 gBackShinySpriteGigaUrshifuRapidTiles[];
 
 extern const u8 gBackShinySprite252Tiles[];
-extern const u8 gBackShinySpriteMissingnoTiles[];
 
 #pragma once
 
@@ -3075,6 +3074,7 @@ extern const u8 gFrontSprite540GiratinaPal[];
 extern const u8 gFrontSprite541CresseliaPal[];
 extern const u8 gFrontSprite542PhionePal[];
 extern const u8 gFrontSprite543ManaphyPal[];
+extern const u8 gSpriteManaphyEggPal[];
 extern const u8 gFrontSprite544DarkraiPal[];
 extern const u8 gFrontSprite545ShayminPal[];
 extern const u8 gFrontSprite546ArceusPal[];
@@ -3831,7 +3831,6 @@ extern const u8 gFrontSpriteGigaUrshifuSinglePal[];
 extern const u8 gFrontSpriteGigaUrshifuRapidPal[];
 
 extern const u8 gFrontSprite252Pal[];
-extern const u8 gFrontSpriteMissingnoPal[];
 
 extern const u8 gBackShinySprite000NonePal[];
 extern const u8 gBackShinySprite001BulbasaurPal[];
@@ -5108,7 +5107,6 @@ extern const u8 gBackShinySpriteGigaUrshifuSinglePal[];
 extern const u8 gBackShinySpriteGigaUrshifuRapidPal[];
 
 extern const u8 gBackShinySprite252Pal[];
-extern const u8 gBackShinySpriteMissingnoPal[];
 
 extern const u8 gIconSprite000NoneTiles[];
 extern const u8 gIconSprite001BulbasaurTiles[];
@@ -5629,6 +5627,7 @@ extern const u8 gIconSprite540GiratinaTiles[];
 extern const u8 gIconSprite541CresseliaTiles[];
 extern const u8 gIconSprite542PhioneTiles[];
 extern const u8 gIconSprite543ManaphyTiles[];
+extern const u8 gIconSpriteManaphyEggTiles[];
 extern const u8 gIconSprite544DarkraiTiles[];
 extern const u8 gIconSprite545ShayminTiles[];
 extern const u8 gIconSprite546ArceusTiles[];
