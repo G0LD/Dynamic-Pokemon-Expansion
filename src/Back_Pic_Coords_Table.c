@@ -6324,6 +6324,31 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
+	[SPECIES_TAUROS_P] =
+	{
+		.size = 0x85,
+		.y_offset = 0xd,
+	},
+	[SPECIES_TAUROS_P_FIRE] =
+	{
+		.size = 0x85,
+		.y_offset = 0xd,
+	},
+	[SPECIES_TAUROS_P_WATER] =
+	{
+		.size = 0x85,
+		.y_offset = 0xd,
+	},
+	[SPECIES_WOOPER_P] =
+	{
+		.size = 0x85,
+		.y_offset = 0xc,
+	},
+	[SPECIES_CLODSIRE] =
+	{
+		.size = 0x76,
+		.y_offset = 0x5,
+	},
 	[SPECIES_MEGANIUM_MEGA] =
 	{
 		.size = 0x0,

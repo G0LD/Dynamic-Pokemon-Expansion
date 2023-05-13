@@ -551,3 +551,4 @@ extern u8 gCryAnnihilape[];
 extern u8 gCryFarigiraf[];
 extern u8 gCryDudunsparce[];
 extern u8 gCryKingambit[];
+extern u8 gCryClodsire[];

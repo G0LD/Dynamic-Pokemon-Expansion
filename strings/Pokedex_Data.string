@@ -1570,6 +1570,9 @@ A recent study uncovered that the number\nof segments a Dudunsparce’s body has
 #org @DEX_ENTRY_KINGAMBIT
 Though it commands a massive army in\nbattle, it's not skilled at devising\ncomplex strategies.
 
+#org @DEX_ENTRY_CLODSIRE
+It lives at the bottom of swamps. It will\ncarry Wooper on its back and ferry them\nacross water from one shore to the other.
+
 //Special Form Entries
 
 #org @DEX_ENTRY_RATTATA_A
@@ -1835,6 +1838,18 @@ The armor of ice covering its lower\njaw puts steel to shame and can\nshatter ro
 
 #org @DEX_ENTRY_DECIDUEYE_H
 The air stored inside the rachises of\nDecidueye's feathers insulates the\nPok\emon against extreme cold.
+
+#org @DEX_ENTRY_TAUROS_P
+This Pokémon has a muscular body and\nexcels at close-quarters combat.\nIt uses its horns to strike its opponents.
+
+#org @DEX_ENTRY_TAUROS_P_FIRE
+When heated by fire energy, its horns can\nget hotter than 1,800 degrees F. Those\ngored by them will suffer wounds and burns.
+
+#org @DEX_ENTRY_TAUROS_P_WATER
+This Pokémon blasts water from holes on\nthe tips of its horns. The high-pressure\njets pierce right through Tauros’s foes.
+
+#org @DEX_ENTRY_WOOPER_P
+It's dangerous for Wooper to travel alone.\nThey line up in groups of 3 or 4 and help\neach other as they walk around.
 
 #org @DEX_CATEGORY_HOOPA_UNBOUND
 Djinn

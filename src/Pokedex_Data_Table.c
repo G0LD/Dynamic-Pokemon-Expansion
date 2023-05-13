@@ -10939,6 +10939,19 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 0,
 		.trainerOffset = 0,
 	},
+
+	[NATIONAL_DEX_CLODSIRE] =
+	{
+		.categoryName = {_S, _p, _i, _n, _y, _SPACE, _F, _i, _s, _h, _END, _SPACE},
+		.height = 18,
+		.weight = 2230,
+		.description = DEX_ENTRY_CLODSIRE,
+		.unusedDescription = (const u8*) 0x8449a27,
+		.pokemonScale = 273,
+		.pokemonOffset = 4,
+		.trainerScale = 273,
+		.trainerOffset = 65534,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed
@@ -11036,6 +11049,10 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_DEX_ENTRY(GOODRA_H),
 	ALTERNATE_DEX_ENTRY(AVALUGG_H),
 	ALTERNATE_DEX_ENTRY(DECIDUEYE_H),
+	ALTERNATE_DEX_ENTRY(TAUROS_P),
+	ALTERNATE_DEX_ENTRY(TAUROS_P_FIRE),
+	ALTERNATE_DEX_ENTRY(TAUROS_P_WATER),
+	ALTERNATE_DEX_ENTRY(WOOPER_P),
 	{SPECIES_TABLES_TERMIN, 0} 
 };
 

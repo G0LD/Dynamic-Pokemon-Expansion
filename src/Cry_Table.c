@@ -14863,7 +14863,66 @@ const struct ToneData gCryTable[NUM_SPECIES] =
   		.sustain = 0xff,
   		.release = 0x0,
   	},
-
+	[SPECIES_TAUROS_P] =
+	{
+		.type = 0x30,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x859a420,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_TAUROS_P_FIRE] =
+	{
+		.type = 0x30,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x859a420,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_TAUROS_P_WATER] =
+	{
+		.type = 0x30,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x859a420,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_WOOPER_P] =
+	{
+		.type = 0x30,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x85d7658,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_CLODSIRE] =
+	{
+		.type = 0x30,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) gCryClodsire,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
 	[SPECIES_MEGANIUM_MEGA] = 
 	{	
 		.type = 0x20,
@@ -14876,7 +14935,6 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-
 	[SPECIES_TYPHLOSION_MEGA] = 
 	{	
 		.type = 0x20,
@@ -14889,7 +14947,6 @@ const struct ToneData gCryTable[NUM_SPECIES] =
   		.sustain = 0xff,
   		.release = 0x0,
 	},
-
 	[SPECIES_FERALIGATR_MEGA] = 
 	{	
 		.type = 0x20,
@@ -14902,7 +14959,6 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-
 	[SPECIES_LUXRAY_MEGA] = 
 	{	
 		.type = 0x20,
@@ -14915,7 +14971,6 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-
 	[SPECIES_VENUSAUR_GIGA] =
 	{	
 		.type = 0x20,

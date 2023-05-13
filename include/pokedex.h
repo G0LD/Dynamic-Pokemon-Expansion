@@ -1020,8 +1020,9 @@ enum
 #define NATIONAL_DEX_FARIGIRAF 907
 #define NATIONAL_DEX_DUDUNSPARCE 908
 #define NATIONAL_DEX_KINGAMBIT 909
+#define NATIONAL_DEX_CLODSIRE 910
 
-#define FINAL_DEX_ENTRY NATIONAL_DEX_KINGAMBIT //Not +1 b/c used like this for some asm
+#define FINAL_DEX_ENTRY NATIONAL_DEX_CLODSIRE //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
 
 extern const u8 DEX_ENTRY_DEOXYS[];
@@ -1620,6 +1621,11 @@ extern const u8 DEX_ENTRY_ANNIHILAPE[];
 extern const u8 DEX_ENTRY_FARIGIRAF[];
 extern const u8 DEX_ENTRY_DUDUNSPARCE[];
 extern const u8 DEX_ENTRY_KINGAMBIT[];
+extern const u8 DEX_ENTRY_TAUROS_P[];
+extern const u8 DEX_ENTRY_TAUROS_P_FIRE[];
+extern const u8 DEX_ENTRY_TAUROS_P_WATER[];
+extern const u8 DEX_ENTRY_WOOPER_P[];
+extern const u8 DEX_ENTRY_CLODSIRE[];
 extern const u8 DEX_ENTRY_GROWLITHE_H[];
 extern const u8 DEX_ENTRY_ARCANINE_H[];
 extern const u8 DEX_ENTRY_VOLTORB_H[];
