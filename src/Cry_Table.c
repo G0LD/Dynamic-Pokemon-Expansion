@@ -14865,7 +14865,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
   	},
 	[SPECIES_TAUROS_P] =
 	{
-		.type = 0x30,
+		.type = 0x20,
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
@@ -14877,7 +14877,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 	},
 	[SPECIES_TAUROS_P_FIRE] =
 	{
-		.type = 0x30,
+		.type = 0x20,
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
@@ -14889,7 +14889,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 	},
 	[SPECIES_TAUROS_P_WATER] =
 	{
-		.type = 0x30,
+		.type = 0x20,
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
@@ -14901,7 +14901,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 	},
 	[SPECIES_WOOPER_P] =
 	{
-		.type = 0x30,
+		.type = 0x20,
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
@@ -14913,7 +14913,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 	},
 	[SPECIES_CLODSIRE] =
 	{
-		.type = 0x30,
+		.type = 0x20,
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
