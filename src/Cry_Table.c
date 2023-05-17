@@ -14971,6 +14971,66 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
+	[SPECIES_BELLSPROUT_RIDE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x8554190,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_SEAKING_RIDE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x858dd88,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_MACHOKE_RIDE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x8552378,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_ABRA_RIDE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x854c42c,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_PIDGEOT_RIDE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = (u8*) 0x85205e8,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
 	[SPECIES_VENUSAUR_GIGA] =
 	{	
 		.type = 0x20,

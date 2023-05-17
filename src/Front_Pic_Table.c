@@ -1279,6 +1279,11 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_TYPHLOSION_MEGA] =      {gFrontSprite157TyphlosionMegaTiles, (64 * 64) / 2, SPECIES_TYPHLOSION_MEGA},
 	[SPECIES_FERALIGATR_MEGA] =      {gFrontSprite160FeraligatrMegaTiles, (64 * 64) / 2, SPECIES_FERALIGATR_MEGA},
 	[SPECIES_LUXRAY_MEGA] =      	 {gFrontSprite1264LuxrayMegaTiles, (64 * 64) / 2, SPECIES_LUXRAY_MEGA},
+	[SPECIES_BELLSPROUT_RIDE] =      {gFrontSprite069BellsproutTiles, (64 * 64) / 2, SPECIES_BELLSPROUT_RIDE},
+	[SPECIES_SEAKING_RIDE] =      	 {gFrontSprite119SeakingTiles, (64 * 64) / 2, SPECIES_SEAKING_RIDE},
+	[SPECIES_MACHOKE_RIDE] =      	 {gFrontSprite067MachokeTiles, (64 * 64) / 2, SPECIES_MACHOKE_RIDE},
+	[SPECIES_ABRA_RIDE] =      	 	 {gFrontSprite063AbraTiles, (64 * 64) / 2, SPECIES_ABRA_RIDE},
+	[SPECIES_PIDGEOT_RIDE] =      	 {gFrontSprite018PidgeotTiles, (64 * 64) / 2, SPECIES_PIDGEOT_RIDE},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},

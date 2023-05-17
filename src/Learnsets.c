@@ -22120,6 +22120,11 @@ const struct LevelUpMove* const gLevelUpLearnsets[] =
 	[SPECIES_TYPHLOSION_MEGA] = sTyphlosionLevelUpLearnset,
 	[SPECIES_FERALIGATR_MEGA] = sFeraligatrLevelUpLearnset,
 	[SPECIES_LUXRAY_MEGA] = sLuxrayLevelUpLearnset,
+	[SPECIES_BELLSPROUT_RIDE] = sBellsproutLevelUpLearnset,
+	[SPECIES_SEAKING_RIDE] = sSeakingLevelUpLearnset,
+	[SPECIES_MACHOKE_RIDE] = sMachokeLevelUpLearnset,
+	[SPECIES_ABRA_RIDE] = sAbraLevelUpLearnset,
+	[SPECIES_PIDGEOT_RIDE] = sPidgeotLevelUpLearnset,
 
 	[SPECIES_VENUSAUR_GIGA] = sVenusaurLevelUpLearnset,
 	[SPECIES_CHARIZARD_GIGA] = sCharizardLevelUpLearnset,

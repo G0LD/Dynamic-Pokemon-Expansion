@@ -1279,6 +1279,11 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_TYPHLOSION_MEGA] =      {gFrontSprite157TyphlosionMegaPal, SPECIES_TYPHLOSION_MEGA, 0x0},
 	[SPECIES_FERALIGATR_MEGA] =      {gFrontSprite160FeraligatrMegaPal, SPECIES_FERALIGATR_MEGA, 0x0},
 	[SPECIES_LUXRAY_MEGA] =     	 {gFrontSprite1264LuxrayMegaPal, SPECIES_LUXRAY_MEGA, 0x0},
+	[SPECIES_BELLSPROUT_RIDE] =      {gFrontSprite069BellsproutPal, SPECIES_BELLSPROUT_RIDE, 0x0},
+	[SPECIES_SEAKING_RIDE] =      	 {gFrontSprite119SeakingPal, SPECIES_SEAKING_RIDE, 0x0},
+	[SPECIES_MACHOKE_RIDE] =      	 {gFrontSprite067MachokePal, SPECIES_MACHOKE_RIDE, 0x0},
+	[SPECIES_ABRA_RIDE] =      	 	 {gFrontSprite063AbraPal, SPECIES_ABRA_RIDE, 0x0},
+	[SPECIES_PIDGEOT_RIDE] =      	 {gFrontSprite018PidgeotPal, SPECIES_PIDGEOT_RIDE, 0x0},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},

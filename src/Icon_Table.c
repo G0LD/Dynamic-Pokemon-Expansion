@@ -1276,6 +1276,11 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_TYPHLOSION_MEGA] =      gIconSprite157TyphlosionMegaTiles,
 	[SPECIES_FERALIGATR_MEGA] =      gIconSprite160FeraligatrMegaTiles,
 	[SPECIES_LUXRAY_MEGA] =     	 gIconSprite1264LuxrayMegaTiles,
+	[SPECIES_BELLSPROUT_RIDE] =      gIconSprite069BellsproutTiles,
+	[SPECIES_SEAKING_RIDE] =      	 gIconSprite119SeakingTiles,
+	[SPECIES_MACHOKE_RIDE] =      	 gIconSprite067MachokeTiles,
+	[SPECIES_ABRA_RIDE] =      	 	 gIconSprite063AbraTiles,
+	[SPECIES_PIDGEOT_RIDE] =      	 gIconSprite018PidgeotTiles,
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,

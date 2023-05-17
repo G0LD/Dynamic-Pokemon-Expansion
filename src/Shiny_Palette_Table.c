@@ -1279,6 +1279,11 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_TYPHLOSION_MEGA] =      {gBackShinySprite157TyphlosionMegaPal, SPECIES_TYPHLOSION_MEGA + NUM_SPECIES, 0x0},
 	[SPECIES_FERALIGATR_MEGA] =      {gBackShinySprite160FeraligatrMegaPal, SPECIES_FERALIGATR_MEGA + NUM_SPECIES, 0x0},
 	[SPECIES_LUXRAY_MEGA] =     	 {gBackShinySprite1264LuxrayMegaPal, SPECIES_LUXRAY_MEGA + NUM_SPECIES, 0x0},
+	[SPECIES_BELLSPROUT_RIDE] =      {gBackShinySprite069BellsproutPal, SPECIES_BELLSPROUT_RIDE + NUM_SPECIES, 0x0},
+	[SPECIES_SEAKING_RIDE] =      	 {gBackShinySprite119SeakingPal, SPECIES_SEAKING_RIDE + NUM_SPECIES, 0x0},
+	[SPECIES_MACHOKE_RIDE] =      	 {gBackShinySprite067MachokePal, SPECIES_MACHOKE_RIDE + NUM_SPECIES, 0x0},
+	[SPECIES_ABRA_RIDE] =      	 	 {gBackShinySprite063AbraPal, SPECIES_ABRA_RIDE + NUM_SPECIES, 0x0},
+	[SPECIES_PIDGEOT_RIDE] =      	 {gBackShinySprite018PidgeotPal, SPECIES_PIDGEOT_RIDE + NUM_SPECIES, 0x0},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA + NUM_SPECIES, 0x0},
