@@ -40897,7 +40897,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TAUROS_P_FIRE] =
+	[SPECIES_TAUROS_BLAZE_P] =
 	{
 		.baseHP 		= 75,
 		.baseAttack 	= 110,
@@ -40930,7 +40930,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_TAUROS_P_WATER] =
+	[SPECIES_TAUROS_AQUA_P] =
 	{
 		.baseHP 		= 75,
 		.baseAttack 	= 110,

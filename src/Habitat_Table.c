@@ -143,8 +143,8 @@ const u16 gGrasslandPage17[] =
 const u16 gGrasslandPage18[] =
 {
 	SPECIES_TAUROS_P,
-	SPECIES_TAUROS_P_FIRE,
-	SPECIES_TAUROS_P_WATER,
+	SPECIES_TAUROS_BLAZE_P,
+	SPECIES_TAUROS_AQUA_P,
 };
 const u16 gGrasslandPage19[] =
 {

@@ -6329,12 +6329,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x5,
 	},
-	[SPECIES_TAUROS_P_FIRE] =
+	[SPECIES_TAUROS_BLAZE_P] =
 	{
 		.size = 0x88,
 		.y_offset = 0x5,
 	},
-	[SPECIES_TAUROS_P_WATER] =
+	[SPECIES_TAUROS_AQUA_P] =
 	{
 		.size = 0x88,
 		.y_offset = 0x5,
