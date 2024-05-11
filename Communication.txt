@@ -2,3 +2,5 @@ Thought this would be the fastest way to talk to you. We have problems with 2.7.
 
 Below is the link to a google doc with all the correct pokemon and levels displayed in images. Please get this done asap because it really hurts the game to have it not be correct.
 https://docs.google.com/document/d/1hiaIkrqi2LtaVmRbXnn5PKdHz8KkXDQ1jiga54buypg/edit?usp=sharing
+
+I have made a patch with the corrected day encounters, but this is a temporary fix. You will need to update your end of the day encounters in Advanced Map.
