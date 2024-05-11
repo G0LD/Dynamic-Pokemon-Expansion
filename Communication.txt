@@ -4,3 +4,5 @@ Below is the link to a google doc with all the correct pokemon and levels displa
 https://docs.google.com/document/d/1hiaIkrqi2LtaVmRbXnn5PKdHz8KkXDQ1jiga54buypg/edit?usp=sharing
 
 I have made a patch with the corrected day encounters, but this is a temporary fix. You will need to update your end of the day encounters in Advanced Map.
+
+Surf/Fish encounters are correct in map maker, just not on the encounter doc. Will update when I have the chance
