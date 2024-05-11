@@ -6,3 +6,5 @@ https://docs.google.com/document/d/1hiaIkrqi2LtaVmRbXnn5PKdHz8KkXDQ1jiga54buypg/
 I have made a patch with the corrected day encounters, but this is a temporary fix. You will need to update your end of the day encounters in Advanced Map.
 
 Surf/Fish encounters are correct in map maker, just not on the encounter doc. Will update when I have the chance. A trainer right before Goldenrod has a lv45 Clefable.
+
+There is a trainer on Route 39 with a lv100 Cradily, this is 70 levels higher than it should be. A Lass in Whitney's gym has a glitched name. Wave Ride crashes on Mgba.
