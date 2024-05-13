@@ -8,3 +8,5 @@ I have made a patch with the corrected day encounters, but this is a temporary f
 Surf/Fish encounters are correct in map maker, just not on the encounter doc. Will update when I have the chance. A trainer right before Goldenrod has a lv45 Clefable.
 
 There is a trainer on Route 39 with a lv100 Cradily, this is 70 levels higher than it should be. A Lass in Whitney's gym has a glitched name. Wave Ride crashes on Mgba.
+
+I went to go find Light Clay, and it turns out its not in the data anymore. You replaced Light Clay with Ice Stone. Could you please add it back in the game?
