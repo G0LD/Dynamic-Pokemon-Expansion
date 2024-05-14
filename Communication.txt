@@ -14,3 +14,5 @@ I went to go find Light Clay, and it turns out its not in the data anymore. You 
 
 
 Thank you for fixing and looking at this. Please, please fix day encounters asap. For now, I'm gonna make a new patch, again. I don't want to have to keep doing this everytime you fix other things
+
+Mgba seems to be having a lot of issues other emulators aren't. I've had a couple reports of surf not working, probably due to the hp fix but works on other emulators. One report of cianwood gyms buttons not working, but fine on other emulators. A rocket in the mahogany hideout, when you first walk in all the way to the left, has a glitch name and crashes Mgba, only one report. Delta seems to crash a lot, but I've heard its caused by speed up. One user claims the problem stopped after they moved it to another emulator and brough it back to Delta.
