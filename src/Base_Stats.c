@@ -39869,7 +39869,7 @@ const struct BaseStats gBaseStats[] =
 		.ability1 = ABILITY_INTIMIDATE,
 		.ability2 = ABILITY_FLASHFIRE,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_JUSTIFIED,
+		.hiddenAbility = ABILITY_ROCKHEAD,
 		.noFlip = TRUE,
 	},
 
