@@ -42348,7 +42348,7 @@ const struct BaseStats gBaseStats[] =
 		.ability1 = ABILITY_IRONFIST,
 		.ability2 = ABILITY_NONE,
 		.safariZoneFleeRate = 0,
-		.hiddenAbility = ABILITY_NONE
+		.hiddenAbility = ABILITY_NONE,
 		.noFlip = TRUE,
 	},
 	
@@ -42418,7 +42418,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 	
-	[SPECIES_MAGEARNA_MEGA_P] =
+	[SPECIES_MAGEARNA_P_MEGA] =
 	{
 		.baseHP 		= 80,
 		.baseAttack 	= 125,

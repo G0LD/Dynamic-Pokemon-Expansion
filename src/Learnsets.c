@@ -22464,7 +22464,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[] =
 	[SPECIES_CRABOMINABLE_MEGA] = sCrabominableLevelUpLearnset,
 	[SPECIES_GOLISOPOD_MEGA] = sGolisopodLevelUpLearnset,
 	[SPECIES_MAGEARNA_MEGA] = sMagearnaLevelUpLearnset,
-	[SPECIES_MAGEARNA_MEGA_P] = sMagearnaLevelUpLearnset,
+	[SPECIES_MAGEARNA_P_MEGA] = sMagearnaLevelUpLearnset,
 	[SPECIES_ZERAORA_MEGA] = sZeraoraLevelUpLearnset,
 	[SPECIES_MEOWSTIC_F_MEGA] = sMeowsticFemaleLevelUpLearnset,
 
